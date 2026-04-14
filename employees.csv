@@ -1,0 +1,1001 @@
+full_name,email,start_date,position,status,equipment,department
+Ivan Shevchenko,ivan.0@example.com,2020-05-19,DevOps Engineer,NEW,Mouse;Keyboard,Sales
+Maria Shevchenko,maria.1@example.com,2026-12-02,Designer,NEW,Mouse;Badge,IT
+Maria Tkachenko,maria.2@example.com,2023-12-08,DevOps Engineer,ACTIVE,Docking station;Headset,Sales
+Yulia Melnyk,yulia.3@example.com,2023-04-24,QA Engineer,ONBOARDING,Headset;Mouse;Badge,IT
+Viktoria Tkachenko,viktoria.4@example.com,2026-02-08,Project Manager,ONBOARDING,Keyboard;Badge;Mouse,HR
+Anna Boyko,anna.5@example.com,2020-06-13,Data Analyst,NEW,Headset,IT
+Igor Bondarenko,igor.6@example.com,2023-08-20,Project Manager,NEW,Mouse;Monitor;Headset,Sales
+Viktoria Tkachenko,viktoria.7@example.com,2022-11-26,Project Manager,ACTIVE,Laptop;Mouse,HR
+Viktoria Shevchenko,viktoria.8@example.com,2022-12-20,Junior Developer,ONBOARDING,Mouse;Laptop;Headset,Sales
+Volodymyr Kovalenko,volodymyr.9@example.com,2025-12-15,Designer,ONBOARDING,Headset;Docking station,Finance
+Oleksandr Bondarenko,oleksandr.10@example.com,2024-04-28,Designer,NEW,Headset,Sales
+Olena Boyko,olena.11@example.com,2025-06-07,Junior Developer,ONBOARDING,Docking station;Badge;Headset,Operations
+Oleksandr Shevchenko,oleksandr.12@example.com,2021-11-07,Data Analyst,ONBOARDING,Docking station;Keyboard;Monitor,IT
+Natalia Oliynyk,natalia.13@example.com,2020-11-25,Project Manager,NEW,Monitor;Docking station,Operations
+Serhiy Oliynyk,serhiy.14@example.com,2022-05-16,Data Analyst,ONBOARDING,Mouse;Docking station,IT
+Dmitro Kovalenko,dmitro.15@example.com,2020-08-11,DevOps Engineer,NEW,Monitor;Badge,Operations
+Andriy Oliynyk,andriy.16@example.com,2024-06-21,Project Manager,NEW,Keyboard,HR
+Viktoria Melnyk,viktoria.17@example.com,2022-04-19,Junior Developer,NEW,Docking station;Headset;Badge,Sales
+Maria Kovalenko,maria.18@example.com,2021-07-13,Designer,ACTIVE,Mouse;Headset,Sales
+Dmitro Boyko,dmitro.19@example.com,2022-09-05,QA Engineer,ACTIVE,Keyboard,HR
+Serhiy Bondarenko,serhiy.20@example.com,2026-12-16,Data Analyst,ONBOARDING,Keyboard,Sales
+Maria Bondarenko,maria.21@example.com,2025-07-16,DevOps Engineer,ONBOARDING,Monitor,Operations
+Yulia Shevchenko,yulia.22@example.com,2024-04-01,Project Manager,ONBOARDING,Badge;Headset;Monitor,Sales
+Natalia Tkachenko,natalia.23@example.com,2021-05-20,QA Engineer,ACTIVE,Laptop;Badge;Docking station,IT
+Maria Tkachenko,maria.24@example.com,2025-09-22,Data Analyst,NEW,Keyboard,Sales
+Viktoria Melnyk,viktoria.25@example.com,2025-04-26,Designer,NEW,Laptop;Headset;Monitor,IT
+Oleksandr Bondarenko,oleksandr.26@example.com,2022-09-21,Project Manager,ACTIVE,Badge;Mouse,Finance
+Natalia Tkachenko,natalia.27@example.com,2026-10-25,Designer,NEW,Badge,HR
+Yulia Oliynyk,yulia.28@example.com,2021-02-12,QA Engineer,ACTIVE,Mouse;Headset;Docking station,Finance
+Andriy Bondarenko,andriy.29@example.com,2026-03-30,Designer,ONBOARDING,Headset;Laptop;Docking station,IT
+Anna Tkachenko,anna.30@example.com,2021-02-07,Junior Developer,ONBOARDING,Keyboard;Badge;Mouse,Sales
+Volodymyr Melnyk,volodymyr.31@example.com,2024-10-16,DevOps Engineer,NEW,Keyboard;Mouse;Headset,IT
+Olena Tkachenko,olena.32@example.com,2025-11-16,Junior Developer,NEW,Monitor;Docking station;Keyboard,Operations
+Anna Bondarenko,anna.33@example.com,2023-12-20,Data Analyst,NEW,Keyboard;Monitor,Finance
+Maria Bondarenko,maria.34@example.com,2021-09-20,Data Analyst,NEW,Headset;Badge,Sales
+Igor Oliynyk,igor.35@example.com,2023-04-19,Junior Developer,ONBOARDING,Mouse;Keyboard;Laptop,Sales
+Yulia Kovalenko,yulia.36@example.com,2021-06-06,QA Engineer,ONBOARDING,Keyboard;Docking station;Mouse,IT
+Maria Oliynyk,maria.37@example.com,2026-06-01,Junior Developer,ACTIVE,Monitor;Docking station;Laptop,IT
+Anna Oliynyk,anna.38@example.com,2022-05-01,QA Engineer,ACTIVE,Badge;Laptop;Headset,Sales
+Igor Boyko,igor.39@example.com,2022-12-15,QA Engineer,NEW,Badge;Laptop;Mouse,Sales
+Serhiy Oliynyk,serhiy.40@example.com,2023-05-01,Junior Developer,ACTIVE,Monitor,Operations
+Oksana Bondarenko,oksana.41@example.com,2022-06-21,DevOps Engineer,NEW,Mouse,Finance
+Maria Bondarenko,maria.42@example.com,2022-11-24,DevOps Engineer,ACTIVE,Keyboard;Laptop;Mouse,IT
+Viktoria Boyko,viktoria.43@example.com,2025-09-06,Project Manager,ONBOARDING,Badge;Mouse;Monitor,Sales
+Serhiy Bondarenko,serhiy.44@example.com,2025-10-04,Designer,NEW,Docking station,Operations
+Volodymyr Bondarenko,volodymyr.45@example.com,2024-12-24,Designer,ACTIVE,Badge;Mouse;Monitor,HR
+Volodymyr Melnyk,volodymyr.46@example.com,2021-07-13,Junior Developer,ACTIVE,Monitor;Badge;Laptop,HR
+Oleksandr Shevchenko,oleksandr.47@example.com,2025-04-09,Designer,NEW,Badge,Sales
+Natalia Shevchenko,natalia.48@example.com,2021-06-20,DevOps Engineer,NEW,Monitor;Laptop;Badge,IT
+Natalia Kovalenko,natalia.49@example.com,2021-10-30,Project Manager,ONBOARDING,Monitor;Badge,HR
+Yulia Tkachenko,yulia.50@example.com,2021-11-15,Project Manager,ACTIVE,Laptop;Headset,Operations
+Natalia Bondarenko,natalia.51@example.com,2020-01-19,Project Manager,ONBOARDING,Laptop,Sales
+Natalia Melnyk,natalia.52@example.com,2020-04-07,DevOps Engineer,NEW,Monitor,Sales
+Oksana Shevchenko,oksana.53@example.com,2021-03-06,QA Engineer,NEW,Monitor;Docking station;Keyboard,Sales
+Oksana Bondarenko,oksana.54@example.com,2025-11-12,QA Engineer,ACTIVE,Laptop,HR
+Serhiy Boyko,serhiy.55@example.com,2021-01-30,Data Analyst,ONBOARDING,Badge;Headset,HR
+Oksana Kovalenko,oksana.56@example.com,2024-12-26,QA Engineer,ACTIVE,Headset,Finance
+Maria Kovalenko,maria.57@example.com,2024-01-14,DevOps Engineer,NEW,Docking station;Mouse;Laptop,Finance
+Olena Tkachenko,olena.58@example.com,2022-03-25,DevOps Engineer,ACTIVE,Mouse,HR
+Yulia Boyko,yulia.59@example.com,2024-06-27,Data Analyst,ONBOARDING,Laptop;Badge,Finance
+Ivan Boyko,ivan.60@example.com,2025-10-02,Designer,NEW,Mouse;Headset,Operations
+Anna Kovalenko,anna.61@example.com,2022-10-29,Junior Developer,ACTIVE,Keyboard;Docking station,IT
+Dmitro Tkachenko,dmitro.62@example.com,2024-08-16,QA Engineer,NEW,Mouse;Headset;Docking station,Finance
+Oleksandr Oliynyk,oleksandr.63@example.com,2021-06-18,Data Analyst,ACTIVE,Badge;Docking station;Headset,Finance
+Oleksandr Melnyk,oleksandr.64@example.com,2021-11-21,Designer,ONBOARDING,Mouse;Monitor,Sales
+Volodymyr Kovalenko,volodymyr.65@example.com,2024-10-16,DevOps Engineer,ACTIVE,Docking station;Keyboard,HR
+Dmitro Boyko,dmitro.66@example.com,2020-06-22,DevOps Engineer,ACTIVE,Docking station;Headset;Laptop,Operations
+Dmitro Melnyk,dmitro.67@example.com,2022-04-29,Data Analyst,ONBOARDING,Headset;Mouse;Monitor,IT
+Andriy Kovalenko,andriy.68@example.com,2021-09-01,QA Engineer,NEW,Headset;Monitor,Finance
+Anna Melnyk,anna.69@example.com,2023-04-21,Project Manager,NEW,Headset;Badge,Finance
+Oleksandr Tkachenko,oleksandr.70@example.com,2025-12-08,DevOps Engineer,ACTIVE,Laptop;Docking station;Headset,Sales
+Ivan Kovalenko,ivan.71@example.com,2021-09-16,Junior Developer,ONBOARDING,Mouse;Laptop,IT
+Oksana Bondarenko,oksana.72@example.com,2024-04-04,DevOps Engineer,ONBOARDING,Docking station;Headset,Finance
+Dmitro Oliynyk,dmitro.73@example.com,2021-01-06,DevOps Engineer,ACTIVE,Badge,HR
+Oleksandr Melnyk,oleksandr.74@example.com,2025-10-23,Project Manager,ACTIVE,Laptop;Monitor,IT
+Natalia Shevchenko,natalia.75@example.com,2022-05-07,Data Analyst,ACTIVE,Laptop;Badge;Keyboard,Operations
+Anna Oliynyk,anna.76@example.com,2022-03-18,Designer,NEW,Laptop;Monitor,Finance
+Yulia Melnyk,yulia.77@example.com,2020-04-24,Data Analyst,ONBOARDING,Laptop;Docking station,Sales
+Viktoria Melnyk,viktoria.78@example.com,2020-06-03,Project Manager,ONBOARDING,Monitor,HR
+Oleksandr Shevchenko,oleksandr.79@example.com,2023-04-28,Junior Developer,ONBOARDING,Laptop;Docking station,IT
+Maria Boyko,maria.80@example.com,2020-02-15,Junior Developer,NEW,Headset,Operations
+Oksana Kovalenko,oksana.81@example.com,2023-04-14,Project Manager,NEW,Docking station;Monitor;Headset,Operations
+Yulia Bondarenko,yulia.82@example.com,2022-06-01,QA Engineer,ACTIVE,Monitor,Operations
+Natalia Melnyk,natalia.83@example.com,2022-09-13,Project Manager,ACTIVE,Keyboard;Monitor,HR
+Dmitro Oliynyk,dmitro.84@example.com,2025-09-13,QA Engineer,NEW,Keyboard;Headset;Laptop,Finance
+Serhiy Oliynyk,serhiy.85@example.com,2020-09-08,Designer,NEW,Keyboard;Docking station;Badge,HR
+Natalia Boyko,natalia.86@example.com,2022-12-10,Project Manager,ACTIVE,Laptop;Docking station,Sales
+Oleksandr Bondarenko,oleksandr.87@example.com,2021-08-07,QA Engineer,ONBOARDING,Laptop;Keyboard;Badge,HR
+Dmitro Bondarenko,dmitro.88@example.com,2021-12-12,DevOps Engineer,ONBOARDING,Monitor;Docking station;Mouse,Sales
+Andriy Bondarenko,andriy.89@example.com,2025-02-23,Junior Developer,ACTIVE,Headset;Docking station,Operations
+Igor Bondarenko,igor.90@example.com,2025-09-27,QA Engineer,ONBOARDING,Laptop;Badge;Monitor,HR
+Viktoria Boyko,viktoria.91@example.com,2026-05-02,Project Manager,ACTIVE,Badge,Finance
+Volodymyr Kovalenko,volodymyr.92@example.com,2022-07-11,Data Analyst,ACTIVE,Laptop,Operations
+Anna Boyko,anna.93@example.com,2021-08-06,QA Engineer,ACTIVE,Monitor;Mouse;Headset,Operations
+Natalia Shevchenko,natalia.94@example.com,2022-02-23,Junior Developer,NEW,Mouse,Operations
+Andriy Oliynyk,andriy.95@example.com,2023-01-05,Designer,NEW,Monitor;Laptop,Sales
+Yulia Shevchenko,yulia.96@example.com,2023-01-02,Designer,ACTIVE,Badge;Laptop,Sales
+Oksana Kovalenko,oksana.97@example.com,2023-01-15,QA Engineer,NEW,Headset;Docking station,HR
+Igor Tkachenko,igor.98@example.com,2022-08-26,DevOps Engineer,NEW,Keyboard;Badge;Mouse,Finance
+Serhiy Boyko,serhiy.99@example.com,2022-05-04,Project Manager,ACTIVE,Keyboard,Finance
+Olena Kovalenko,olena.100@example.com,2026-06-30,QA Engineer,ACTIVE,Laptop;Keyboard;Docking station,Sales
+Anna Melnyk,anna.101@example.com,2023-10-07,DevOps Engineer,ACTIVE,Headset,Operations
+Igor Tkachenko,igor.102@example.com,2022-04-14,DevOps Engineer,NEW,Laptop,HR
+Igor Melnyk,igor.103@example.com,2022-04-06,DevOps Engineer,ACTIVE,Badge,HR
+Serhiy Kovalenko,serhiy.104@example.com,2020-02-02,Data Analyst,ONBOARDING,Keyboard;Badge;Monitor,Sales
+Anna Melnyk,anna.105@example.com,2023-05-17,QA Engineer,ONBOARDING,Docking station;Monitor,Finance
+Serhiy Boyko,serhiy.106@example.com,2026-09-19,Data Analyst,ONBOARDING,Badge;Docking station;Mouse,Operations
+Andriy Oliynyk,andriy.107@example.com,2022-12-18,Project Manager,ACTIVE,Mouse,IT
+Oksana Shevchenko,oksana.108@example.com,2023-06-08,Project Manager,ACTIVE,Keyboard,HR
+Viktoria Shevchenko,viktoria.109@example.com,2022-11-24,Junior Developer,NEW,Monitor,HR
+Oksana Melnyk,oksana.110@example.com,2020-06-01,DevOps Engineer,ONBOARDING,Docking station;Mouse;Badge,Finance
+Oleksandr Shevchenko,oleksandr.111@example.com,2024-01-19,QA Engineer,ACTIVE,Headset;Keyboard;Laptop,Operations
+Volodymyr Kovalenko,volodymyr.112@example.com,2021-03-04,QA Engineer,ONBOARDING,Laptop;Mouse,IT
+Natalia Oliynyk,natalia.113@example.com,2023-10-06,Designer,ACTIVE,Badge;Laptop,HR
+Oksana Kovalenko,oksana.114@example.com,2024-04-07,Data Analyst,ACTIVE,Laptop;Keyboard;Headset,Sales
+Volodymyr Kovalenko,volodymyr.115@example.com,2026-02-12,DevOps Engineer,ACTIVE,Badge;Monitor;Mouse,IT
+Natalia Kovalenko,natalia.116@example.com,2020-12-31,QA Engineer,NEW,Headset,IT
+Igor Bondarenko,igor.117@example.com,2020-06-03,Junior Developer,ONBOARDING,Docking station,IT
+Volodymyr Oliynyk,volodymyr.118@example.com,2022-01-10,Data Analyst,ACTIVE,Monitor,Finance
+Maria Boyko,maria.119@example.com,2020-05-02,Junior Developer,NEW,Laptop;Headset;Keyboard,Operations
+Yulia Shevchenko,yulia.120@example.com,2022-12-06,Junior Developer,ONBOARDING,Badge;Monitor;Mouse,IT
+Yulia Melnyk,yulia.121@example.com,2021-02-11,QA Engineer,ACTIVE,Docking station;Laptop;Headset,Sales
+Oksana Melnyk,oksana.122@example.com,2021-07-27,QA Engineer,NEW,Laptop;Docking station;Keyboard,Operations
+Ivan Tkachenko,ivan.123@example.com,2025-07-16,Designer,ONBOARDING,Laptop;Keyboard;Badge,Sales
+Natalia Shevchenko,natalia.124@example.com,2024-03-03,Project Manager,ACTIVE,Mouse;Badge,IT
+Oleksandr Boyko,oleksandr.125@example.com,2025-10-31,QA Engineer,NEW,Headset;Mouse;Badge,Sales
+Olena Kovalenko,olena.126@example.com,2022-11-12,Junior Developer,NEW,Mouse;Keyboard,Finance
+Natalia Boyko,natalia.127@example.com,2024-06-09,Junior Developer,ONBOARDING,Headset;Docking station;Mouse,HR
+Oleksandr Melnyk,oleksandr.128@example.com,2020-10-08,DevOps Engineer,ONBOARDING,Monitor,IT
+Dmitro Tkachenko,dmitro.129@example.com,2021-09-16,DevOps Engineer,ACTIVE,Docking station,IT
+Yulia Kovalenko,yulia.130@example.com,2025-05-16,Project Manager,NEW,Mouse;Keyboard;Badge,Finance
+Oleksandr Shevchenko,oleksandr.131@example.com,2021-10-11,Project Manager,NEW,Mouse,IT
+Olena Melnyk,olena.132@example.com,2020-06-08,Data Analyst,NEW,Keyboard,Finance
+Oksana Melnyk,oksana.133@example.com,2024-10-30,QA Engineer,NEW,Laptop;Keyboard;Headset,Operations
+Ivan Bondarenko,ivan.134@example.com,2025-07-25,Junior Developer,NEW,Headset;Monitor,Operations
+Yulia Oliynyk,yulia.135@example.com,2023-11-24,Junior Developer,ONBOARDING,Laptop;Docking station,HR
+Oleksandr Oliynyk,oleksandr.136@example.com,2021-08-01,Designer,ONBOARDING,Keyboard;Laptop;Docking station,Finance
+Oksana Bondarenko,oksana.137@example.com,2025-06-11,QA Engineer,NEW,Keyboard;Monitor,HR
+Andriy Shevchenko,andriy.138@example.com,2021-04-15,Designer,NEW,Headset;Monitor,Operations
+Andriy Melnyk,andriy.139@example.com,2023-01-03,QA Engineer,NEW,Keyboard;Mouse,Operations
+Natalia Melnyk,natalia.140@example.com,2021-01-29,DevOps Engineer,ONBOARDING,Keyboard;Mouse;Docking station,Operations
+Volodymyr Bondarenko,volodymyr.141@example.com,2020-03-02,Junior Developer,NEW,Docking station;Laptop,HR
+Ivan Melnyk,ivan.142@example.com,2022-03-21,Designer,NEW,Docking station;Monitor;Laptop,Sales
+Anna Tkachenko,anna.143@example.com,2024-04-28,Project Manager,ONBOARDING,Mouse;Docking station;Badge,Sales
+Yulia Bondarenko,yulia.144@example.com,2026-12-03,Junior Developer,ACTIVE,Mouse;Headset,Operations
+Olena Shevchenko,olena.145@example.com,2023-09-27,Designer,ONBOARDING,Laptop,Finance
+Igor Shevchenko,igor.146@example.com,2024-05-23,QA Engineer,ONBOARDING,Badge,Finance
+Oksana Boyko,oksana.147@example.com,2024-10-30,QA Engineer,ACTIVE,Mouse;Keyboard,Finance
+Oksana Melnyk,oksana.148@example.com,2026-09-08,QA Engineer,ACTIVE,Keyboard,Sales
+Volodymyr Shevchenko,volodymyr.149@example.com,2023-07-26,QA Engineer,ONBOARDING,Headset,Operations
+Oleksandr Shevchenko,oleksandr.150@example.com,2020-05-24,Project Manager,ONBOARDING,Docking station;Mouse,Finance
+Igor Oliynyk,igor.151@example.com,2024-09-04,DevOps Engineer,NEW,Docking station;Headset,HR
+Maria Boyko,maria.152@example.com,2025-04-05,Designer,NEW,Laptop;Headset;Monitor,Finance
+Oleksandr Boyko,oleksandr.153@example.com,2021-12-01,Designer,NEW,Keyboard;Mouse;Docking station,Operations
+Anna Boyko,anna.154@example.com,2024-01-19,QA Engineer,ACTIVE,Laptop,Operations
+Viktoria Shevchenko,viktoria.155@example.com,2021-06-13,Designer,ACTIVE,Laptop;Keyboard,Sales
+Volodymyr Bondarenko,volodymyr.156@example.com,2022-03-20,Designer,ACTIVE,Docking station,HR
+Volodymyr Shevchenko,volodymyr.157@example.com,2024-12-18,Project Manager,ONBOARDING,Monitor;Laptop;Keyboard,Sales
+Igor Tkachenko,igor.158@example.com,2025-10-16,Designer,ONBOARDING,Keyboard;Badge,Sales
+Oleksandr Kovalenko,oleksandr.159@example.com,2020-02-08,Designer,ONBOARDING,Keyboard;Docking station;Badge,Finance
+Viktoria Shevchenko,viktoria.160@example.com,2025-05-11,Project Manager,ACTIVE,Docking station;Badge,Operations
+Igor Shevchenko,igor.161@example.com,2022-12-02,DevOps Engineer,ONBOARDING,Laptop;Keyboard;Headset,Finance
+Yulia Shevchenko,yulia.162@example.com,2021-02-23,Data Analyst,ACTIVE,Mouse;Headset,Sales
+Oksana Shevchenko,oksana.163@example.com,2026-04-21,Designer,ACTIVE,Monitor;Headset;Docking station,Finance
+Oksana Tkachenko,oksana.164@example.com,2024-04-07,Designer,ONBOARDING,Laptop;Keyboard;Docking station,Sales
+Olena Oliynyk,olena.165@example.com,2021-12-25,DevOps Engineer,ONBOARDING,Mouse,IT
+Oksana Boyko,oksana.166@example.com,2021-07-02,Junior Developer,ACTIVE,Monitor,IT
+Igor Tkachenko,igor.167@example.com,2022-01-22,Designer,ONBOARDING,Monitor;Headset,Operations
+Ivan Shevchenko,ivan.168@example.com,2026-10-22,QA Engineer,ACTIVE,Headset;Monitor;Badge,Sales
+Igor Kovalenko,igor.169@example.com,2021-03-19,DevOps Engineer,ACTIVE,Mouse;Docking station;Keyboard,HR
+Serhiy Melnyk,serhiy.170@example.com,2026-06-29,QA Engineer,ONBOARDING,Keyboard;Headset;Monitor,Operations
+Dmitro Oliynyk,dmitro.171@example.com,2023-01-24,QA Engineer,ACTIVE,Mouse,Sales
+Viktoria Kovalenko,viktoria.172@example.com,2025-09-20,Designer,ACTIVE,Keyboard,Sales
+Igor Tkachenko,igor.173@example.com,2023-05-18,Project Manager,NEW,Laptop,IT
+Andriy Shevchenko,andriy.174@example.com,2025-08-16,QA Engineer,NEW,Mouse;Headset,IT
+Yulia Kovalenko,yulia.175@example.com,2023-12-25,DevOps Engineer,ONBOARDING,Monitor;Docking station,Finance
+Oleksandr Shevchenko,oleksandr.176@example.com,2025-11-04,Data Analyst,NEW,Docking station,Operations
+Anna Oliynyk,anna.177@example.com,2021-06-24,Project Manager,ONBOARDING,Docking station;Badge,IT
+Andriy Oliynyk,andriy.178@example.com,2022-10-09,Data Analyst,ONBOARDING,Keyboard,Sales
+Igor Oliynyk,igor.179@example.com,2026-10-22,DevOps Engineer,ONBOARDING,Mouse;Headset,Finance
+Yulia Oliynyk,yulia.180@example.com,2025-09-16,Designer,ONBOARDING,Mouse;Monitor,HR
+Andriy Tkachenko,andriy.181@example.com,2023-04-01,Designer,ONBOARDING,Keyboard;Docking station,Sales
+Dmitro Shevchenko,dmitro.182@example.com,2023-03-17,QA Engineer,ACTIVE,Docking station,HR
+Yulia Kovalenko,yulia.183@example.com,2020-06-11,Designer,NEW,Badge,HR
+Oksana Boyko,oksana.184@example.com,2020-02-22,Project Manager,ACTIVE,Keyboard;Monitor;Docking station,Sales
+Natalia Shevchenko,natalia.185@example.com,2024-02-29,Project Manager,ACTIVE,Headset;Keyboard,HR
+Natalia Boyko,natalia.186@example.com,2022-08-28,Designer,ONBOARDING,Badge;Keyboard;Docking station,Sales
+Dmitro Shevchenko,dmitro.187@example.com,2023-03-12,Designer,ONBOARDING,Headset;Badge,Operations
+Oksana Oliynyk,oksana.188@example.com,2023-07-25,Designer,ACTIVE,Mouse,Operations
+Andriy Melnyk,andriy.189@example.com,2024-09-25,Junior Developer,ONBOARDING,Badge,Finance
+Andriy Boyko,andriy.190@example.com,2025-09-15,Designer,ACTIVE,Docking station;Keyboard;Mouse,HR
+Ivan Boyko,ivan.191@example.com,2022-09-29,Junior Developer,ACTIVE,Laptop;Docking station;Badge,Sales
+Yulia Shevchenko,yulia.192@example.com,2026-07-14,Project Manager,ACTIVE,Headset;Mouse,Operations
+Ivan Shevchenko,ivan.193@example.com,2023-01-31,Designer,ONBOARDING,Headset;Keyboard,HR
+Andriy Tkachenko,andriy.194@example.com,2021-01-23,Designer,ACTIVE,Mouse,Finance
+Olena Bondarenko,olena.195@example.com,2020-01-29,QA Engineer,NEW,Monitor,Sales
+Yulia Bondarenko,yulia.196@example.com,2022-07-04,Data Analyst,NEW,Keyboard;Badge,Sales
+Natalia Kovalenko,natalia.197@example.com,2020-05-17,Designer,NEW,Badge;Keyboard;Headset,HR
+Anna Shevchenko,anna.198@example.com,2022-09-18,DevOps Engineer,ACTIVE,Mouse;Keyboard;Laptop,Operations
+Serhiy Bondarenko,serhiy.199@example.com,2023-05-27,Junior Developer,NEW,Headset;Laptop,IT
+Olena Boyko,olena.200@example.com,2026-01-27,QA Engineer,NEW,Docking station;Laptop,Operations
+Viktoria Boyko,viktoria.201@example.com,2024-12-08,DevOps Engineer,NEW,Monitor;Mouse,Finance
+Oksana Bondarenko,oksana.202@example.com,2021-06-07,Designer,NEW,Badge,Sales
+Volodymyr Oliynyk,volodymyr.203@example.com,2022-05-03,DevOps Engineer,ONBOARDING,Mouse,Finance
+Maria Kovalenko,maria.204@example.com,2022-01-02,QA Engineer,ONBOARDING,Mouse,Operations
+Natalia Boyko,natalia.205@example.com,2020-09-19,QA Engineer,ONBOARDING,Monitor;Keyboard;Laptop,Operations
+Olena Tkachenko,olena.206@example.com,2020-05-04,Junior Developer,ACTIVE,Headset;Keyboard,Sales
+Maria Melnyk,maria.207@example.com,2023-12-31,Designer,NEW,Mouse;Monitor;Keyboard,Operations
+Viktoria Kovalenko,viktoria.208@example.com,2022-04-23,DevOps Engineer,NEW,Docking station;Monitor,HR
+Andriy Tkachenko,andriy.209@example.com,2026-06-02,Junior Developer,ACTIVE,Badge,HR
+Oksana Kovalenko,oksana.210@example.com,2022-11-19,Data Analyst,ACTIVE,Badge,Operations
+Igor Tkachenko,igor.211@example.com,2024-10-10,Designer,NEW,Docking station,IT
+Dmitro Kovalenko,dmitro.212@example.com,2025-01-13,Project Manager,ONBOARDING,Monitor;Mouse,IT
+Oksana Shevchenko,oksana.213@example.com,2021-07-02,Data Analyst,ACTIVE,Monitor,Sales
+Dmitro Boyko,dmitro.214@example.com,2020-06-08,DevOps Engineer,NEW,Laptop;Mouse,IT
+Oksana Bondarenko,oksana.215@example.com,2024-05-16,Junior Developer,ACTIVE,Monitor;Badge;Mouse,HR
+Serhiy Melnyk,serhiy.216@example.com,2023-03-06,DevOps Engineer,NEW,Monitor;Headset;Badge,IT
+Olena Oliynyk,olena.217@example.com,2025-01-11,DevOps Engineer,ACTIVE,Laptop,Operations
+Serhiy Melnyk,serhiy.218@example.com,2023-04-28,Junior Developer,ACTIVE,Keyboard,Operations
+Viktoria Boyko,viktoria.219@example.com,2024-07-01,DevOps Engineer,ONBOARDING,Docking station,Operations
+Igor Tkachenko,igor.220@example.com,2022-01-27,Designer,ACTIVE,Headset;Laptop,Finance
+Oleksandr Bondarenko,oleksandr.221@example.com,2024-09-19,Project Manager,ACTIVE,Badge;Keyboard;Mouse,Sales
+Viktoria Tkachenko,viktoria.222@example.com,2025-09-30,Junior Developer,NEW,Laptop;Headset,HR
+Natalia Tkachenko,natalia.223@example.com,2026-06-01,Junior Developer,NEW,Badge;Headset,Finance
+Olena Melnyk,olena.224@example.com,2025-07-29,DevOps Engineer,ONBOARDING,Monitor;Laptop,IT
+Viktoria Tkachenko,viktoria.225@example.com,2020-08-20,Designer,ACTIVE,Mouse,Sales
+Oleksandr Bondarenko,oleksandr.226@example.com,2021-09-08,Designer,ONBOARDING,Badge;Mouse;Monitor,Finance
+Yulia Bondarenko,yulia.227@example.com,2024-05-25,Junior Developer,ACTIVE,Monitor,Sales
+Oleksandr Kovalenko,oleksandr.228@example.com,2023-10-07,Designer,ONBOARDING,Docking station,Operations
+Oksana Shevchenko,oksana.229@example.com,2026-11-21,QA Engineer,ACTIVE,Headset;Badge,HR
+Oleksandr Melnyk,oleksandr.230@example.com,2025-03-21,Project Manager,ONBOARDING,Keyboard;Headset;Badge,HR
+Oleksandr Boyko,oleksandr.231@example.com,2025-04-11,Designer,NEW,Keyboard;Docking station,HR
+Natalia Oliynyk,natalia.232@example.com,2022-10-30,DevOps Engineer,ONBOARDING,Headset,IT
+Olena Kovalenko,olena.233@example.com,2020-10-10,DevOps Engineer,ACTIVE,Keyboard,Finance
+Igor Melnyk,igor.234@example.com,2023-10-26,Junior Developer,ACTIVE,Mouse,Sales
+Yulia Boyko,yulia.235@example.com,2022-12-13,QA Engineer,NEW,Docking station;Badge,Sales
+Anna Tkachenko,anna.236@example.com,2024-10-17,Project Manager,ACTIVE,Docking station;Mouse;Monitor,Sales
+Oksana Melnyk,oksana.237@example.com,2020-04-11,Designer,ONBOARDING,Monitor;Mouse,Finance
+Maria Tkachenko,maria.238@example.com,2025-01-03,QA Engineer,ACTIVE,Monitor;Badge;Laptop,Operations
+Maria Kovalenko,maria.239@example.com,2022-09-23,DevOps Engineer,NEW,Keyboard;Headset,Operations
+Viktoria Boyko,viktoria.240@example.com,2023-10-16,Data Analyst,NEW,Badge;Docking station;Mouse,Operations
+Natalia Kovalenko,natalia.241@example.com,2020-10-08,QA Engineer,NEW,Keyboard;Mouse,Operations
+Yulia Shevchenko,yulia.242@example.com,2020-04-25,QA Engineer,ONBOARDING,Laptop;Badge,Operations
+Igor Boyko,igor.243@example.com,2024-12-05,Data Analyst,ONBOARDING,Docking station;Headset,HR
+Ivan Kovalenko,ivan.244@example.com,2024-02-08,Junior Developer,ONBOARDING,Monitor,Sales
+Dmitro Melnyk,dmitro.245@example.com,2022-05-11,Data Analyst,ACTIVE,Laptop;Keyboard;Mouse,IT
+Oksana Melnyk,oksana.246@example.com,2024-02-17,Data Analyst,ONBOARDING,Monitor,Operations
+Natalia Oliynyk,natalia.247@example.com,2022-09-06,Data Analyst,ACTIVE,Mouse,IT
+Oksana Boyko,oksana.248@example.com,2026-07-31,Data Analyst,ACTIVE,Headset;Keyboard;Badge,Operations
+Yulia Tkachenko,yulia.249@example.com,2020-07-04,Project Manager,ACTIVE,Mouse,IT
+Oleksandr Melnyk,oleksandr.250@example.com,2021-03-17,Data Analyst,NEW,Docking station;Headset,Operations
+Serhiy Shevchenko,serhiy.251@example.com,2026-07-29,Data Analyst,ONBOARDING,Laptop;Monitor,IT
+Yulia Shevchenko,yulia.252@example.com,2026-12-01,Junior Developer,NEW,Keyboard,Finance
+Natalia Shevchenko,natalia.253@example.com,2024-03-04,Data Analyst,NEW,Monitor;Docking station,Sales
+Oksana Oliynyk,oksana.254@example.com,2020-08-13,Data Analyst,NEW,Monitor;Docking station;Badge,IT
+Viktoria Boyko,viktoria.255@example.com,2021-12-16,QA Engineer,NEW,Laptop,IT
+Oksana Kovalenko,oksana.256@example.com,2020-10-23,DevOps Engineer,NEW,Headset,IT
+Oleksandr Oliynyk,oleksandr.257@example.com,2026-06-20,QA Engineer,NEW,Laptop,Sales
+Anna Boyko,anna.258@example.com,2022-09-18,QA Engineer,ONBOARDING,Monitor,HR
+Anna Oliynyk,anna.259@example.com,2020-11-15,Junior Developer,NEW,Laptop,HR
+Dmitro Shevchenko,dmitro.260@example.com,2023-07-06,DevOps Engineer,ACTIVE,Badge;Docking station;Headset,Finance
+Ivan Tkachenko,ivan.261@example.com,2024-11-13,Data Analyst,NEW,Laptop,IT
+Volodymyr Oliynyk,volodymyr.262@example.com,2020-11-28,DevOps Engineer,NEW,Keyboard;Laptop;Badge,Finance
+Ivan Kovalenko,ivan.263@example.com,2024-01-08,QA Engineer,ONBOARDING,Docking station;Laptop;Monitor,Finance
+Andriy Kovalenko,andriy.264@example.com,2025-07-26,Project Manager,ACTIVE,Monitor,IT
+Andriy Tkachenko,andriy.265@example.com,2024-06-29,Junior Developer,NEW,Docking station,HR
+Oleksandr Kovalenko,oleksandr.266@example.com,2025-03-09,Data Analyst,NEW,Monitor;Docking station,Sales
+Igor Oliynyk,igor.267@example.com,2025-04-07,Data Analyst,ACTIVE,Monitor,HR
+Olena Melnyk,olena.268@example.com,2024-03-04,Junior Developer,ACTIVE,Docking station;Laptop;Headset,Operations
+Yulia Oliynyk,yulia.269@example.com,2022-04-13,QA Engineer,NEW,Docking station;Keyboard;Badge,Sales
+Andriy Kovalenko,andriy.270@example.com,2024-02-25,QA Engineer,NEW,Headset;Laptop;Mouse,IT
+Dmitro Tkachenko,dmitro.271@example.com,2022-02-26,Junior Developer,NEW,Laptop,Operations
+Viktoria Shevchenko,viktoria.272@example.com,2021-09-29,DevOps Engineer,NEW,Keyboard;Laptop;Headset,HR
+Viktoria Boyko,viktoria.273@example.com,2022-10-28,Designer,ONBOARDING,Keyboard;Monitor,Sales
+Serhiy Shevchenko,serhiy.274@example.com,2025-12-07,QA Engineer,ONBOARDING,Laptop;Headset;Keyboard,Operations
+Oleksandr Oliynyk,oleksandr.275@example.com,2021-01-03,Designer,ONBOARDING,Monitor;Mouse;Keyboard,Sales
+Yulia Tkachenko,yulia.276@example.com,2025-10-27,Project Manager,ONBOARDING,Badge;Laptop;Headset,Operations
+Anna Shevchenko,anna.277@example.com,2026-06-12,Project Manager,NEW,Badge,HR
+Igor Shevchenko,igor.278@example.com,2021-08-10,Junior Developer,NEW,Mouse;Headset;Monitor,Sales
+Ivan Kovalenko,ivan.279@example.com,2020-10-06,Data Analyst,NEW,Laptop,Operations
+Ivan Bondarenko,ivan.280@example.com,2025-09-10,Project Manager,ACTIVE,Headset,Finance
+Oksana Oliynyk,oksana.281@example.com,2025-12-02,DevOps Engineer,NEW,Mouse;Keyboard;Docking station,Sales
+Viktoria Melnyk,viktoria.282@example.com,2023-03-21,Data Analyst,NEW,Headset;Monitor;Laptop,Operations
+Anna Boyko,anna.283@example.com,2020-11-12,Junior Developer,ONBOARDING,Mouse;Headset;Monitor,IT
+Andriy Shevchenko,andriy.284@example.com,2020-09-03,Data Analyst,ACTIVE,Keyboard;Mouse,Sales
+Yulia Kovalenko,yulia.285@example.com,2021-04-29,Data Analyst,ACTIVE,Docking station;Badge,Sales
+Viktoria Bondarenko,viktoria.286@example.com,2021-06-09,Junior Developer,ACTIVE,Keyboard;Monitor,Operations
+Serhiy Shevchenko,serhiy.287@example.com,2023-07-08,QA Engineer,ONBOARDING,Mouse;Laptop,HR
+Igor Shevchenko,igor.288@example.com,2025-06-08,Junior Developer,ONBOARDING,Headset;Keyboard,HR
+Natalia Tkachenko,natalia.289@example.com,2021-09-26,Data Analyst,ACTIVE,Headset,Sales
+Oksana Boyko,oksana.290@example.com,2023-11-06,DevOps Engineer,ONBOARDING,Docking station;Laptop;Monitor,Finance
+Anna Shevchenko,anna.291@example.com,2020-10-08,Data Analyst,ONBOARDING,Headset;Docking station;Badge,HR
+Volodymyr Boyko,volodymyr.292@example.com,2024-09-21,QA Engineer,ACTIVE,Docking station;Keyboard,IT
+Ivan Kovalenko,ivan.293@example.com,2026-05-08,Junior Developer,NEW,Mouse;Badge;Docking station,IT
+Serhiy Oliynyk,serhiy.294@example.com,2026-03-05,DevOps Engineer,NEW,Laptop,Sales
+Ivan Boyko,ivan.295@example.com,2023-04-01,Designer,ACTIVE,Mouse,Operations
+Yulia Kovalenko,yulia.296@example.com,2022-11-08,Junior Developer,NEW,Docking station;Headset;Laptop,Finance
+Oleksandr Bondarenko,oleksandr.297@example.com,2020-05-19,DevOps Engineer,NEW,Keyboard;Badge;Docking station,IT
+Olena Kovalenko,olena.298@example.com,2026-03-26,Designer,ACTIVE,Monitor;Mouse;Badge,IT
+Anna Tkachenko,anna.299@example.com,2023-10-26,Project Manager,NEW,Headset;Mouse,Operations
+Natalia Oliynyk,natalia.300@example.com,2024-06-14,Junior Developer,ACTIVE,Docking station;Keyboard;Laptop,IT
+Serhiy Oliynyk,serhiy.301@example.com,2022-07-10,Designer,NEW,Mouse;Headset;Keyboard,Operations
+Oksana Shevchenko,oksana.302@example.com,2023-02-25,Data Analyst,ACTIVE,Badge;Docking station,Sales
+Maria Boyko,maria.303@example.com,2022-05-06,Data Analyst,ACTIVE,Headset;Keyboard,HR
+Oksana Melnyk,oksana.304@example.com,2024-10-26,DevOps Engineer,ONBOARDING,Mouse;Monitor,IT
+Serhiy Melnyk,serhiy.305@example.com,2024-12-02,Data Analyst,ACTIVE,Keyboard;Docking station;Mouse,Sales
+Anna Kovalenko,anna.306@example.com,2025-11-11,Project Manager,ACTIVE,Badge,Operations
+Viktoria Shevchenko,viktoria.307@example.com,2020-05-13,QA Engineer,NEW,Badge;Laptop;Monitor,Operations
+Serhiy Tkachenko,serhiy.308@example.com,2021-02-24,DevOps Engineer,ONBOARDING,Headset;Monitor;Laptop,HR
+Dmitro Kovalenko,dmitro.309@example.com,2025-12-04,Data Analyst,ACTIVE,Monitor,IT
+Natalia Bondarenko,natalia.310@example.com,2022-07-14,Designer,NEW,Laptop;Docking station;Badge,HR
+Dmitro Bondarenko,dmitro.311@example.com,2021-04-03,QA Engineer,ACTIVE,Headset;Badge;Keyboard,Operations
+Olena Boyko,olena.312@example.com,2020-08-20,DevOps Engineer,ACTIVE,Monitor;Laptop,IT
+Volodymyr Kovalenko,volodymyr.313@example.com,2020-10-01,Data Analyst,NEW,Laptop,Finance
+Oksana Melnyk,oksana.314@example.com,2025-01-05,Project Manager,NEW,Badge,Sales
+Viktoria Kovalenko,viktoria.315@example.com,2021-08-24,QA Engineer,NEW,Keyboard;Monitor;Badge,HR
+Viktoria Oliynyk,viktoria.316@example.com,2026-06-09,Data Analyst,ACTIVE,Headset;Docking station;Monitor,Sales
+Viktoria Oliynyk,viktoria.317@example.com,2026-06-05,QA Engineer,NEW,Monitor;Keyboard,Finance
+Olena Boyko,olena.318@example.com,2023-09-23,Data Analyst,ACTIVE,Mouse;Laptop;Headset,IT
+Volodymyr Melnyk,volodymyr.319@example.com,2026-07-08,Designer,ONBOARDING,Headset;Monitor,Operations
+Maria Kovalenko,maria.320@example.com,2020-12-08,Project Manager,ACTIVE,Docking station,IT
+Maria Kovalenko,maria.321@example.com,2022-10-03,Data Analyst,ONBOARDING,Mouse;Monitor,Sales
+Viktoria Oliynyk,viktoria.322@example.com,2023-06-02,DevOps Engineer,ACTIVE,Headset;Laptop;Monitor,Operations
+Maria Tkachenko,maria.323@example.com,2024-07-22,QA Engineer,ONBOARDING,Docking station,Sales
+Igor Boyko,igor.324@example.com,2020-03-17,Project Manager,ONBOARDING,Monitor;Docking station;Keyboard,HR
+Natalia Tkachenko,natalia.325@example.com,2022-08-30,Project Manager,ONBOARDING,Badge;Keyboard,IT
+Oksana Kovalenko,oksana.326@example.com,2023-02-05,Junior Developer,NEW,Keyboard,Sales
+Maria Bondarenko,maria.327@example.com,2021-05-30,Project Manager,ONBOARDING,Keyboard,Finance
+Maria Bondarenko,maria.328@example.com,2022-02-12,QA Engineer,ACTIVE,Keyboard;Laptop,Finance
+Igor Melnyk,igor.329@example.com,2023-04-06,Designer,ONBOARDING,Keyboard;Headset;Laptop,IT
+Andriy Oliynyk,andriy.330@example.com,2023-02-27,Project Manager,ONBOARDING,Badge;Mouse,HR
+Olena Bondarenko,olena.331@example.com,2021-08-16,Designer,ONBOARDING,Docking station;Laptop,Finance
+Maria Melnyk,maria.332@example.com,2022-12-19,Project Manager,NEW,Monitor;Keyboard,Sales
+Yulia Boyko,yulia.333@example.com,2025-12-06,DevOps Engineer,NEW,Docking station,Operations
+Oksana Oliynyk,oksana.334@example.com,2021-06-16,Data Analyst,ONBOARDING,Headset;Mouse;Laptop,IT
+Serhiy Kovalenko,serhiy.335@example.com,2024-08-13,Junior Developer,ACTIVE,Headset,HR
+Maria Shevchenko,maria.336@example.com,2026-04-24,Project Manager,ONBOARDING,Mouse;Monitor,HR
+Viktoria Kovalenko,viktoria.337@example.com,2021-08-02,Designer,ONBOARDING,Mouse,HR
+Andriy Bondarenko,andriy.338@example.com,2020-08-30,Data Analyst,NEW,Headset;Monitor,IT
+Natalia Oliynyk,natalia.339@example.com,2023-12-11,Designer,NEW,Monitor;Laptop;Mouse,IT
+Maria Melnyk,maria.340@example.com,2026-10-24,QA Engineer,NEW,Monitor,IT
+Olena Bondarenko,olena.341@example.com,2020-10-20,Data Analyst,NEW,Mouse;Laptop,HR
+Igor Shevchenko,igor.342@example.com,2021-12-13,Designer,ONBOARDING,Mouse,IT
+Ivan Tkachenko,ivan.343@example.com,2026-09-02,Project Manager,ACTIVE,Badge;Keyboard;Monitor,HR
+Andriy Oliynyk,andriy.344@example.com,2020-11-24,DevOps Engineer,ACTIVE,Keyboard;Headset,HR
+Andriy Bondarenko,andriy.345@example.com,2021-04-25,DevOps Engineer,ACTIVE,Laptop,Operations
+Viktoria Melnyk,viktoria.346@example.com,2026-05-07,QA Engineer,ONBOARDING,Monitor;Docking station,Sales
+Volodymyr Shevchenko,volodymyr.347@example.com,2025-02-25,DevOps Engineer,NEW,Headset;Monitor;Keyboard,Finance
+Volodymyr Shevchenko,volodymyr.348@example.com,2021-12-05,Designer,ACTIVE,Keyboard;Monitor;Mouse,Sales
+Serhiy Bondarenko,serhiy.349@example.com,2024-04-28,Designer,NEW,Mouse;Badge;Docking station,Operations
+Natalia Shevchenko,natalia.350@example.com,2026-03-07,DevOps Engineer,ONBOARDING,Mouse,Operations
+Dmitro Shevchenko,dmitro.351@example.com,2023-04-19,Junior Developer,ACTIVE,Badge;Headset,Finance
+Igor Bondarenko,igor.352@example.com,2020-03-24,DevOps Engineer,ONBOARDING,Docking station;Mouse,Sales
+Ivan Shevchenko,ivan.353@example.com,2026-08-26,Junior Developer,NEW,Docking station;Mouse;Monitor,HR
+Olena Shevchenko,olena.354@example.com,2021-09-19,Project Manager,NEW,Mouse;Docking station,HR
+Igor Shevchenko,igor.355@example.com,2024-05-28,Junior Developer,ONBOARDING,Mouse;Badge;Keyboard,Operations
+Ivan Melnyk,ivan.356@example.com,2026-11-23,Data Analyst,ONBOARDING,Monitor;Mouse,Sales
+Anna Bondarenko,anna.357@example.com,2023-07-22,DevOps Engineer,ACTIVE,Keyboard;Monitor,HR
+Ivan Boyko,ivan.358@example.com,2020-10-24,Project Manager,NEW,Badge,IT
+Andriy Boyko,andriy.359@example.com,2024-09-14,QA Engineer,NEW,Badge;Monitor,Finance
+Dmitro Shevchenko,dmitro.360@example.com,2022-06-12,QA Engineer,ONBOARDING,Docking station;Mouse;Badge,HR
+Anna Shevchenko,anna.361@example.com,2022-05-08,DevOps Engineer,NEW,Headset;Keyboard,HR
+Volodymyr Melnyk,volodymyr.362@example.com,2025-02-17,Junior Developer,ONBOARDING,Headset;Laptop;Mouse,Finance
+Olena Oliynyk,olena.363@example.com,2026-01-26,Data Analyst,NEW,Headset;Badge,IT
+Ivan Boyko,ivan.364@example.com,2022-02-05,Data Analyst,ACTIVE,Badge;Headset;Mouse,Finance
+Dmitro Oliynyk,dmitro.365@example.com,2025-07-05,QA Engineer,ONBOARDING,Docking station;Laptop,Sales
+Maria Boyko,maria.366@example.com,2023-01-29,Designer,ONBOARDING,Headset;Mouse,HR
+Olena Melnyk,olena.367@example.com,2025-10-14,QA Engineer,ACTIVE,Docking station;Badge,IT
+Serhiy Melnyk,serhiy.368@example.com,2026-09-13,QA Engineer,ONBOARDING,Monitor;Headset,Operations
+Igor Bondarenko,igor.369@example.com,2025-10-13,Designer,ACTIVE,Laptop,HR
+Igor Shevchenko,igor.370@example.com,2023-06-22,QA Engineer,NEW,Laptop;Monitor,Operations
+Maria Shevchenko,maria.371@example.com,2025-04-05,Junior Developer,NEW,Mouse;Keyboard,IT
+Viktoria Boyko,viktoria.372@example.com,2025-01-27,Designer,NEW,Headset,Sales
+Oleksandr Tkachenko,oleksandr.373@example.com,2026-10-08,DevOps Engineer,ONBOARDING,Badge;Headset;Mouse,Sales
+Viktoria Tkachenko,viktoria.374@example.com,2026-02-19,QA Engineer,ACTIVE,Badge;Laptop,IT
+Ivan Melnyk,ivan.375@example.com,2026-06-24,Data Analyst,ONBOARDING,Headset,HR
+Dmitro Bondarenko,dmitro.376@example.com,2022-01-07,Designer,ONBOARDING,Laptop,Operations
+Andriy Tkachenko,andriy.377@example.com,2023-12-07,QA Engineer,ACTIVE,Monitor;Mouse;Laptop,Finance
+Igor Boyko,igor.378@example.com,2021-01-26,Data Analyst,ONBOARDING,Headset;Keyboard,Finance
+Natalia Bondarenko,natalia.379@example.com,2020-07-29,Designer,ONBOARDING,Mouse,HR
+Olena Tkachenko,olena.380@example.com,2022-02-17,Junior Developer,NEW,Laptop;Docking station;Monitor,IT
+Oksana Kovalenko,oksana.381@example.com,2025-08-27,DevOps Engineer,ACTIVE,Laptop;Docking station,Sales
+Olena Boyko,olena.382@example.com,2026-04-14,Designer,ACTIVE,Laptop;Badge,Sales
+Serhiy Bondarenko,serhiy.383@example.com,2025-07-11,Project Manager,ACTIVE,Mouse;Keyboard,Sales
+Anna Bondarenko,anna.384@example.com,2022-05-26,Project Manager,NEW,Docking station,Sales
+Igor Bondarenko,igor.385@example.com,2023-09-14,Junior Developer,ONBOARDING,Headset;Badge,Operations
+Serhiy Bondarenko,serhiy.386@example.com,2023-05-08,Designer,ACTIVE,Keyboard;Laptop,IT
+Natalia Bondarenko,natalia.387@example.com,2025-10-20,QA Engineer,ONBOARDING,Headset;Monitor;Badge,Sales
+Natalia Shevchenko,natalia.388@example.com,2024-09-07,Project Manager,NEW,Laptop;Headset;Keyboard,HR
+Serhiy Kovalenko,serhiy.389@example.com,2026-05-30,QA Engineer,ACTIVE,Badge;Mouse,Finance
+Andriy Tkachenko,andriy.390@example.com,2026-12-01,Designer,ONBOARDING,Badge;Docking station;Keyboard,IT
+Yulia Bondarenko,yulia.391@example.com,2022-05-29,Designer,NEW,Badge;Mouse,HR
+Volodymyr Melnyk,volodymyr.392@example.com,2026-09-11,Data Analyst,NEW,Laptop,HR
+Natalia Oliynyk,natalia.393@example.com,2023-05-30,Project Manager,ONBOARDING,Mouse;Badge;Monitor,IT
+Viktoria Tkachenko,viktoria.394@example.com,2022-08-12,QA Engineer,NEW,Keyboard,Sales
+Yulia Tkachenko,yulia.395@example.com,2023-07-17,QA Engineer,ONBOARDING,Headset;Docking station,Sales
+Yulia Melnyk,yulia.396@example.com,2020-01-01,Data Analyst,ONBOARDING,Monitor;Mouse,Finance
+Oleksandr Bondarenko,oleksandr.397@example.com,2022-01-04,QA Engineer,ONBOARDING,Monitor,Sales
+Serhiy Tkachenko,serhiy.398@example.com,2025-01-18,QA Engineer,ACTIVE,Docking station,Finance
+Volodymyr Shevchenko,volodymyr.399@example.com,2022-01-09,Designer,ACTIVE,Mouse;Laptop,Finance
+Yulia Bondarenko,yulia.400@example.com,2024-05-26,Designer,ACTIVE,Keyboard,IT
+Viktoria Boyko,viktoria.401@example.com,2022-06-21,QA Engineer,NEW,Badge;Monitor,Sales
+Oksana Tkachenko,oksana.402@example.com,2024-07-02,Project Manager,ONBOARDING,Laptop,Operations
+Viktoria Shevchenko,viktoria.403@example.com,2020-06-14,Designer,ONBOARDING,Keyboard;Laptop;Monitor,HR
+Volodymyr Tkachenko,volodymyr.404@example.com,2020-03-23,Designer,ONBOARDING,Docking station;Laptop;Keyboard,Finance
+Natalia Bondarenko,natalia.405@example.com,2022-03-14,Junior Developer,ONBOARDING,Headset,Sales
+Viktoria Oliynyk,viktoria.406@example.com,2026-03-15,Junior Developer,ONBOARDING,Monitor,Finance
+Dmitro Tkachenko,dmitro.407@example.com,2023-06-22,Junior Developer,NEW,Laptop;Badge;Monitor,HR
+Maria Oliynyk,maria.408@example.com,2020-05-08,Data Analyst,NEW,Keyboard,IT
+Igor Melnyk,igor.409@example.com,2022-11-10,Project Manager,ONBOARDING,Docking station,Operations
+Dmitro Bondarenko,dmitro.410@example.com,2020-09-25,Designer,ACTIVE,Monitor;Mouse,Operations
+Yulia Kovalenko,yulia.411@example.com,2026-08-21,Designer,ONBOARDING,Monitor;Badge,Sales
+Maria Melnyk,maria.412@example.com,2020-09-23,Data Analyst,ACTIVE,Mouse;Badge,IT
+Dmitro Melnyk,dmitro.413@example.com,2022-08-05,DevOps Engineer,ACTIVE,Badge,Finance
+Oksana Boyko,oksana.414@example.com,2023-11-26,Data Analyst,ONBOARDING,Headset,Sales
+Igor Melnyk,igor.415@example.com,2020-12-31,QA Engineer,ACTIVE,Monitor;Keyboard;Badge,HR
+Dmitro Boyko,dmitro.416@example.com,2021-04-13,Designer,ACTIVE,Docking station;Keyboard;Laptop,Sales
+Maria Tkachenko,maria.417@example.com,2026-01-09,Designer,NEW,Monitor;Docking station,Sales
+Olena Boyko,olena.418@example.com,2020-07-03,Junior Developer,NEW,Badge,HR
+Oleksandr Shevchenko,oleksandr.419@example.com,2020-10-23,DevOps Engineer,NEW,Mouse,Finance
+Maria Kovalenko,maria.420@example.com,2025-11-06,DevOps Engineer,ONBOARDING,Docking station,IT
+Ivan Melnyk,ivan.421@example.com,2022-08-22,Project Manager,ACTIVE,Headset;Mouse;Monitor,Operations
+Maria Kovalenko,maria.422@example.com,2024-03-17,DevOps Engineer,NEW,Laptop;Badge,IT
+Dmitro Bondarenko,dmitro.423@example.com,2021-03-19,Project Manager,ONBOARDING,Badge,Finance
+Volodymyr Bondarenko,volodymyr.424@example.com,2022-06-18,Designer,NEW,Keyboard,Sales
+Dmitro Kovalenko,dmitro.425@example.com,2024-08-31,Data Analyst,ONBOARDING,Docking station;Headset,IT
+Serhiy Oliynyk,serhiy.426@example.com,2020-04-06,Data Analyst,ACTIVE,Headset;Badge;Docking station,Sales
+Igor Shevchenko,igor.427@example.com,2020-12-12,QA Engineer,ACTIVE,Keyboard,Sales
+Olena Boyko,olena.428@example.com,2025-03-30,Designer,NEW,Keyboard;Mouse;Monitor,HR
+Natalia Shevchenko,natalia.429@example.com,2020-02-11,DevOps Engineer,ONBOARDING,Headset,Sales
+Ivan Bondarenko,ivan.430@example.com,2025-12-29,Project Manager,ONBOARDING,Headset;Monitor,Sales
+Andriy Oliynyk,andriy.431@example.com,2022-06-25,Project Manager,ONBOARDING,Monitor,Finance
+Olena Oliynyk,olena.432@example.com,2024-07-13,Data Analyst,ACTIVE,Mouse;Keyboard;Docking station,Sales
+Ivan Melnyk,ivan.433@example.com,2024-02-07,Project Manager,ONBOARDING,Mouse;Laptop,Operations
+Serhiy Oliynyk,serhiy.434@example.com,2023-05-15,Junior Developer,ONBOARDING,Keyboard;Headset;Docking station,IT
+Igor Kovalenko,igor.435@example.com,2022-12-07,Data Analyst,ACTIVE,Badge;Monitor;Docking station,IT
+Ivan Tkachenko,ivan.436@example.com,2025-06-01,Junior Developer,NEW,Docking station;Keyboard;Badge,HR
+Olena Melnyk,olena.437@example.com,2026-04-28,Junior Developer,ONBOARDING,Laptop;Monitor,Finance
+Anna Shevchenko,anna.438@example.com,2023-09-12,DevOps Engineer,ONBOARDING,Docking station,Operations
+Anna Shevchenko,anna.439@example.com,2020-09-29,Junior Developer,NEW,Docking station;Mouse,Sales
+Viktoria Melnyk,viktoria.440@example.com,2025-11-27,Data Analyst,NEW,Monitor,Finance
+Oleksandr Oliynyk,oleksandr.441@example.com,2023-04-23,Junior Developer,ACTIVE,Keyboard;Docking station,HR
+Maria Tkachenko,maria.442@example.com,2025-07-27,Designer,ACTIVE,Keyboard;Headset;Docking station,HR
+Maria Bondarenko,maria.443@example.com,2024-03-10,Data Analyst,ONBOARDING,Keyboard,Finance
+Andriy Oliynyk,andriy.444@example.com,2021-09-05,Data Analyst,ONBOARDING,Laptop;Docking station,Sales
+Viktoria Oliynyk,viktoria.445@example.com,2025-02-23,Designer,ACTIVE,Laptop;Badge;Docking station,Operations
+Volodymyr Oliynyk,volodymyr.446@example.com,2026-05-01,DevOps Engineer,NEW,Docking station,Sales
+Natalia Bondarenko,natalia.447@example.com,2020-08-16,QA Engineer,NEW,Keyboard;Monitor,Sales
+Ivan Tkachenko,ivan.448@example.com,2022-10-10,QA Engineer,ACTIVE,Monitor;Mouse;Laptop,HR
+Oleksandr Kovalenko,oleksandr.449@example.com,2021-09-23,Data Analyst,ONBOARDING,Mouse;Monitor,Operations
+Ivan Bondarenko,ivan.450@example.com,2022-12-19,Designer,NEW,Docking station;Headset,Operations
+Ivan Kovalenko,ivan.451@example.com,2021-01-21,Project Manager,NEW,Laptop;Docking station;Keyboard,IT
+Natalia Melnyk,natalia.452@example.com,2023-12-28,Designer,ONBOARDING,Keyboard,HR
+Oksana Oliynyk,oksana.453@example.com,2020-03-30,Designer,NEW,Badge,IT
+Maria Boyko,maria.454@example.com,2023-09-19,Designer,NEW,Monitor,Finance
+Viktoria Shevchenko,viktoria.455@example.com,2020-04-30,Project Manager,NEW,Docking station;Laptop;Monitor,Sales
+Oksana Kovalenko,oksana.456@example.com,2023-08-05,Project Manager,ONBOARDING,Mouse;Badge,Sales
+Viktoria Melnyk,viktoria.457@example.com,2023-07-21,QA Engineer,ONBOARDING,Mouse;Keyboard,HR
+Olena Melnyk,olena.458@example.com,2024-11-04,Data Analyst,ACTIVE,Monitor;Keyboard,Sales
+Olena Kovalenko,olena.459@example.com,2024-01-07,DevOps Engineer,ONBOARDING,Badge,Operations
+Viktoria Tkachenko,viktoria.460@example.com,2022-04-22,Data Analyst,ONBOARDING,Headset,Operations
+Olena Tkachenko,olena.461@example.com,2020-03-16,Junior Developer,ONBOARDING,Laptop;Docking station,Finance
+Volodymyr Melnyk,volodymyr.462@example.com,2021-10-25,QA Engineer,NEW,Docking station;Mouse;Badge,Finance
+Ivan Melnyk,ivan.463@example.com,2024-04-14,Data Analyst,ONBOARDING,Headset;Badge,Sales
+Viktoria Melnyk,viktoria.464@example.com,2025-05-26,QA Engineer,ACTIVE,Monitor;Keyboard;Laptop,HR
+Oksana Melnyk,oksana.465@example.com,2025-03-12,DevOps Engineer,ACTIVE,Keyboard;Badge;Mouse,HR
+Olena Melnyk,olena.466@example.com,2024-04-23,QA Engineer,ACTIVE,Mouse,Operations
+Igor Oliynyk,igor.467@example.com,2022-09-25,DevOps Engineer,NEW,Laptop;Keyboard;Docking station,Sales
+Igor Oliynyk,igor.468@example.com,2026-05-28,Data Analyst,ONBOARDING,Docking station;Headset;Mouse,Finance
+Volodymyr Tkachenko,volodymyr.469@example.com,2023-10-04,QA Engineer,ONBOARDING,Docking station;Laptop;Badge,IT
+Volodymyr Kovalenko,volodymyr.470@example.com,2023-05-12,Junior Developer,NEW,Laptop;Docking station;Badge,Finance
+Oksana Bondarenko,oksana.471@example.com,2023-09-16,Data Analyst,ACTIVE,Monitor;Laptop;Keyboard,HR
+Serhiy Kovalenko,serhiy.472@example.com,2026-06-10,DevOps Engineer,NEW,Keyboard;Mouse,Operations
+Natalia Kovalenko,natalia.473@example.com,2025-11-10,Project Manager,ONBOARDING,Headset;Monitor;Laptop,Sales
+Volodymyr Bondarenko,volodymyr.474@example.com,2020-09-05,Data Analyst,ONBOARDING,Badge,Sales
+Viktoria Oliynyk,viktoria.475@example.com,2020-05-21,Designer,NEW,Docking station;Headset;Monitor,Finance
+Volodymyr Kovalenko,volodymyr.476@example.com,2022-03-20,DevOps Engineer,ACTIVE,Headset;Laptop;Badge,Sales
+Natalia Bondarenko,natalia.477@example.com,2023-07-26,Data Analyst,ONBOARDING,Mouse;Laptop;Keyboard,Finance
+Andriy Bondarenko,andriy.478@example.com,2025-05-04,QA Engineer,ONBOARDING,Headset;Laptop;Keyboard,Sales
+Oleksandr Melnyk,oleksandr.479@example.com,2021-11-18,QA Engineer,NEW,Laptop;Monitor;Headset,IT
+Dmitro Melnyk,dmitro.480@example.com,2020-05-19,Junior Developer,ONBOARDING,Badge,Sales
+Igor Bondarenko,igor.481@example.com,2021-04-22,Project Manager,ACTIVE,Laptop;Monitor,Sales
+Natalia Melnyk,natalia.482@example.com,2022-03-31,DevOps Engineer,ONBOARDING,Keyboard;Docking station,Finance
+Volodymyr Shevchenko,volodymyr.483@example.com,2023-01-04,Data Analyst,NEW,Keyboard,Finance
+Maria Bondarenko,maria.484@example.com,2022-11-01,Project Manager,ACTIVE,Monitor,IT
+Yulia Boyko,yulia.485@example.com,2021-10-13,Project Manager,NEW,Keyboard,HR
+Andriy Melnyk,andriy.486@example.com,2026-04-08,Junior Developer,ACTIVE,Laptop;Docking station,HR
+Volodymyr Shevchenko,volodymyr.487@example.com,2026-10-02,DevOps Engineer,ACTIVE,Docking station,IT
+Natalia Shevchenko,natalia.488@example.com,2020-03-07,Junior Developer,NEW,Docking station;Laptop,Operations
+Dmitro Oliynyk,dmitro.489@example.com,2021-11-19,Junior Developer,ONBOARDING,Badge;Mouse;Keyboard,Finance
+Maria Boyko,maria.490@example.com,2023-11-26,Project Manager,ACTIVE,Headset;Docking station,HR
+Maria Tkachenko,maria.491@example.com,2022-08-12,Junior Developer,ONBOARDING,Docking station,Finance
+Viktoria Melnyk,viktoria.492@example.com,2025-11-08,Project Manager,ONBOARDING,Headset;Docking station;Badge,HR
+Anna Tkachenko,anna.493@example.com,2020-03-10,Junior Developer,NEW,Docking station;Laptop,Operations
+Igor Bondarenko,igor.494@example.com,2021-03-16,Designer,NEW,Monitor,Operations
+Ivan Tkachenko,ivan.495@example.com,2023-06-01,QA Engineer,ONBOARDING,Laptop;Headset,Finance
+Volodymyr Melnyk,volodymyr.496@example.com,2026-04-26,QA Engineer,ONBOARDING,Docking station;Badge,IT
+Viktoria Shevchenko,viktoria.497@example.com,2020-08-06,Designer,NEW,Headset;Docking station;Mouse,IT
+Oleksandr Kovalenko,oleksandr.498@example.com,2024-12-13,DevOps Engineer,ACTIVE,Mouse;Monitor,Finance
+Olena Bondarenko,olena.499@example.com,2024-01-27,QA Engineer,ONBOARDING,Laptop,Finance
+Natalia Tkachenko,natalia.500@example.com,2024-01-16,Designer,ONBOARDING,Headset;Keyboard,HR
+Dmitro Tkachenko,dmitro.501@example.com,2026-06-06,Project Manager,ACTIVE,Headset;Mouse;Docking station,IT
+Viktoria Shevchenko,viktoria.502@example.com,2022-05-17,Designer,NEW,Docking station;Badge;Headset,HR
+Ivan Bondarenko,ivan.503@example.com,2022-04-12,DevOps Engineer,ACTIVE,Badge;Monitor,Finance
+Volodymyr Bondarenko,volodymyr.504@example.com,2021-03-07,DevOps Engineer,ACTIVE,Keyboard;Docking station,Finance
+Oksana Melnyk,oksana.505@example.com,2024-03-29,Junior Developer,ONBOARDING,Monitor;Badge,IT
+Volodymyr Melnyk,volodymyr.506@example.com,2025-06-16,Designer,ONBOARDING,Mouse;Monitor,Operations
+Dmitro Melnyk,dmitro.507@example.com,2024-10-28,Project Manager,ONBOARDING,Headset;Badge;Mouse,Finance
+Serhiy Shevchenko,serhiy.508@example.com,2021-01-14,QA Engineer,ONBOARDING,Laptop;Headset,IT
+Serhiy Boyko,serhiy.509@example.com,2022-10-12,DevOps Engineer,ACTIVE,Headset,IT
+Anna Melnyk,anna.510@example.com,2025-12-07,Project Manager,NEW,Docking station,IT
+Anna Bondarenko,anna.511@example.com,2023-03-10,Project Manager,ONBOARDING,Mouse;Headset,IT
+Ivan Tkachenko,ivan.512@example.com,2023-04-10,Project Manager,ONBOARDING,Mouse;Monitor,Sales
+Volodymyr Kovalenko,volodymyr.513@example.com,2024-09-05,QA Engineer,ACTIVE,Keyboard;Laptop;Headset,Finance
+Dmitro Bondarenko,dmitro.514@example.com,2025-07-28,Designer,ONBOARDING,Keyboard;Laptop;Monitor,Sales
+Dmitro Oliynyk,dmitro.515@example.com,2023-12-04,Data Analyst,NEW,Docking station,HR
+Viktoria Boyko,viktoria.516@example.com,2022-12-16,Project Manager,ONBOARDING,Headset;Laptop,Finance
+Dmitro Shevchenko,dmitro.517@example.com,2021-05-04,Junior Developer,ONBOARDING,Monitor,Sales
+Serhiy Kovalenko,serhiy.518@example.com,2021-07-18,Designer,ONBOARDING,Mouse;Docking station,Operations
+Volodymyr Kovalenko,volodymyr.519@example.com,2024-07-15,Designer,ONBOARDING,Monitor,Sales
+Serhiy Boyko,serhiy.520@example.com,2026-01-15,Designer,NEW,Headset;Mouse;Badge,Finance
+Viktoria Tkachenko,viktoria.521@example.com,2022-09-12,Designer,ONBOARDING,Keyboard,Sales
+Volodymyr Melnyk,volodymyr.522@example.com,2022-06-29,Designer,NEW,Headset,Finance
+Natalia Tkachenko,natalia.523@example.com,2020-12-08,Data Analyst,ONBOARDING,Badge;Docking station;Laptop,IT
+Andriy Tkachenko,andriy.524@example.com,2024-07-05,Designer,ONBOARDING,Docking station;Mouse,HR
+Volodymyr Tkachenko,volodymyr.525@example.com,2022-09-30,QA Engineer,ACTIVE,Mouse,Sales
+Igor Bondarenko,igor.526@example.com,2024-10-29,Project Manager,NEW,Badge;Keyboard;Docking station,Sales
+Volodymyr Boyko,volodymyr.527@example.com,2021-04-14,Data Analyst,ONBOARDING,Laptop,Operations
+Ivan Bondarenko,ivan.528@example.com,2025-06-07,Data Analyst,ACTIVE,Docking station;Badge,Sales
+Volodymyr Tkachenko,volodymyr.529@example.com,2022-02-08,Data Analyst,NEW,Headset;Badge,Finance
+Ivan Shevchenko,ivan.530@example.com,2026-07-03,QA Engineer,ACTIVE,Headset;Keyboard;Badge,HR
+Viktoria Shevchenko,viktoria.531@example.com,2026-04-02,Data Analyst,NEW,Monitor;Headset;Keyboard,HR
+Maria Shevchenko,maria.532@example.com,2021-09-16,Designer,NEW,Headset,IT
+Natalia Boyko,natalia.533@example.com,2023-07-16,Data Analyst,NEW,Laptop;Keyboard;Docking station,Sales
+Igor Tkachenko,igor.534@example.com,2021-08-28,Data Analyst,ACTIVE,Mouse;Headset;Docking station,Sales
+Ivan Kovalenko,ivan.535@example.com,2025-06-12,Project Manager,NEW,Headset;Laptop;Mouse,Finance
+Igor Bondarenko,igor.536@example.com,2020-03-29,Designer,NEW,Mouse;Docking station,Sales
+Oleksandr Bondarenko,oleksandr.537@example.com,2026-01-29,DevOps Engineer,ACTIVE,Laptop;Mouse;Headset,Finance
+Serhiy Kovalenko,serhiy.538@example.com,2023-03-17,QA Engineer,ONBOARDING,Badge;Mouse,Finance
+Ivan Oliynyk,ivan.539@example.com,2023-05-29,Project Manager,ACTIVE,Headset;Monitor,Operations
+Yulia Boyko,yulia.540@example.com,2025-01-30,Junior Developer,NEW,Mouse;Headset,Finance
+Serhiy Boyko,serhiy.541@example.com,2021-02-16,Junior Developer,ACTIVE,Badge;Keyboard;Laptop,Operations
+Ivan Bondarenko,ivan.542@example.com,2025-12-22,Project Manager,ACTIVE,Keyboard;Mouse,HR
+Andriy Kovalenko,andriy.543@example.com,2022-07-26,Project Manager,ONBOARDING,Headset;Monitor,IT
+Natalia Boyko,natalia.544@example.com,2020-12-25,Designer,ONBOARDING,Mouse;Badge;Monitor,Sales
+Maria Shevchenko,maria.545@example.com,2026-01-28,Designer,ACTIVE,Docking station;Monitor;Keyboard,HR
+Olena Bondarenko,olena.546@example.com,2026-03-30,DevOps Engineer,NEW,Laptop,Sales
+Dmitro Melnyk,dmitro.547@example.com,2021-03-26,QA Engineer,ACTIVE,Laptop;Monitor;Docking station,Sales
+Andriy Tkachenko,andriy.548@example.com,2025-01-11,DevOps Engineer,NEW,Headset;Badge,HR
+Yulia Shevchenko,yulia.549@example.com,2025-11-08,QA Engineer,NEW,Keyboard;Docking station,Sales
+Dmitro Melnyk,dmitro.550@example.com,2020-02-21,Data Analyst,ONBOARDING,Docking station,Finance
+Igor Kovalenko,igor.551@example.com,2024-09-30,QA Engineer,ACTIVE,Docking station;Headset;Mouse,HR
+Ivan Kovalenko,ivan.552@example.com,2024-01-26,Project Manager,NEW,Laptop;Keyboard,Sales
+Anna Tkachenko,anna.553@example.com,2023-12-10,DevOps Engineer,ONBOARDING,Badge,Operations
+Natalia Bondarenko,natalia.554@example.com,2024-11-16,QA Engineer,ACTIVE,Badge;Docking station;Monitor,IT
+Igor Boyko,igor.555@example.com,2025-10-27,Junior Developer,NEW,Headset,HR
+Viktoria Bondarenko,viktoria.556@example.com,2021-08-17,QA Engineer,ACTIVE,Mouse;Badge;Docking station,Operations
+Oksana Kovalenko,oksana.557@example.com,2024-03-10,Data Analyst,ONBOARDING,Mouse;Laptop;Keyboard,Operations
+Oksana Kovalenko,oksana.558@example.com,2023-09-11,Junior Developer,ACTIVE,Headset;Badge;Docking station,Sales
+Olena Melnyk,olena.559@example.com,2023-06-01,Junior Developer,ACTIVE,Monitor;Headset,HR
+Igor Oliynyk,igor.560@example.com,2021-08-22,Junior Developer,ACTIVE,Headset,Sales
+Yulia Boyko,yulia.561@example.com,2022-09-09,QA Engineer,NEW,Keyboard;Laptop,Operations
+Volodymyr Shevchenko,volodymyr.562@example.com,2025-07-05,DevOps Engineer,ONBOARDING,Monitor;Docking station;Laptop,Finance
+Dmitro Oliynyk,dmitro.563@example.com,2020-06-09,Project Manager,ONBOARDING,Headset,HR
+Natalia Tkachenko,natalia.564@example.com,2026-05-24,DevOps Engineer,NEW,Laptop;Mouse,IT
+Anna Bondarenko,anna.565@example.com,2023-07-28,Project Manager,ONBOARDING,Keyboard,Finance
+Andriy Shevchenko,andriy.566@example.com,2022-03-10,QA Engineer,NEW,Docking station;Headset;Badge,Operations
+Andriy Oliynyk,andriy.567@example.com,2025-12-23,Project Manager,ACTIVE,Headset,IT
+Natalia Melnyk,natalia.568@example.com,2021-05-02,Junior Developer,ONBOARDING,Keyboard,Finance
+Andriy Boyko,andriy.569@example.com,2021-10-13,Designer,ONBOARDING,Laptop,Sales
+Oleksandr Kovalenko,oleksandr.570@example.com,2023-11-17,Junior Developer,ONBOARDING,Laptop,Finance
+Volodymyr Oliynyk,volodymyr.571@example.com,2022-08-17,Junior Developer,ONBOARDING,Monitor;Keyboard,HR
+Igor Tkachenko,igor.572@example.com,2023-02-21,QA Engineer,ACTIVE,Laptop,Operations
+Volodymyr Oliynyk,volodymyr.573@example.com,2024-07-26,DevOps Engineer,ACTIVE,Mouse;Monitor,Finance
+Andriy Shevchenko,andriy.574@example.com,2026-06-22,Project Manager,NEW,Laptop,Finance
+Oleksandr Shevchenko,oleksandr.575@example.com,2026-06-26,QA Engineer,NEW,Docking station;Keyboard;Laptop,Sales
+Anna Kovalenko,anna.576@example.com,2020-03-06,QA Engineer,ACTIVE,Headset;Laptop,Operations
+Ivan Melnyk,ivan.577@example.com,2023-05-15,Data Analyst,NEW,Badge;Laptop;Headset,Sales
+Andriy Tkachenko,andriy.578@example.com,2023-10-13,DevOps Engineer,ACTIVE,Laptop,Finance
+Olena Shevchenko,olena.579@example.com,2023-04-24,QA Engineer,NEW,Laptop;Monitor,Sales
+Natalia Bondarenko,natalia.580@example.com,2021-03-13,Data Analyst,ACTIVE,Keyboard,Operations
+Anna Kovalenko,anna.581@example.com,2026-10-19,Junior Developer,ONBOARDING,Keyboard,IT
+Ivan Kovalenko,ivan.582@example.com,2020-03-27,Data Analyst,ONBOARDING,Badge,HR
+Ivan Melnyk,ivan.583@example.com,2023-11-28,Project Manager,ACTIVE,Docking station;Headset,HR
+Igor Bondarenko,igor.584@example.com,2024-10-20,Designer,ONBOARDING,Laptop,Operations
+Yulia Bondarenko,yulia.585@example.com,2024-08-05,Junior Developer,NEW,Keyboard;Badge;Monitor,Sales
+Dmitro Kovalenko,dmitro.586@example.com,2023-03-09,Junior Developer,NEW,Docking station;Monitor,Sales
+Anna Tkachenko,anna.587@example.com,2025-01-24,QA Engineer,ONBOARDING,Headset;Docking station,Finance
+Maria Bondarenko,maria.588@example.com,2022-07-19,Junior Developer,ONBOARDING,Headset;Laptop;Monitor,IT
+Viktoria Tkachenko,viktoria.589@example.com,2022-07-26,QA Engineer,ONBOARDING,Docking station;Headset,IT
+Oleksandr Shevchenko,oleksandr.590@example.com,2025-10-04,Designer,ONBOARDING,Keyboard;Docking station;Laptop,HR
+Anna Shevchenko,anna.591@example.com,2026-12-03,Data Analyst,ACTIVE,Laptop;Mouse,Sales
+Serhiy Kovalenko,serhiy.592@example.com,2024-08-29,Project Manager,ONBOARDING,Headset;Mouse,Finance
+Oleksandr Boyko,oleksandr.593@example.com,2023-12-08,Project Manager,ONBOARDING,Headset,HR
+Olena Tkachenko,olena.594@example.com,2024-03-08,Junior Developer,ONBOARDING,Mouse;Docking station,Sales
+Volodymyr Bondarenko,volodymyr.595@example.com,2025-06-17,QA Engineer,NEW,Badge;Laptop;Monitor,Operations
+Maria Oliynyk,maria.596@example.com,2026-03-03,DevOps Engineer,ONBOARDING,Keyboard;Mouse;Laptop,Operations
+Dmitro Kovalenko,dmitro.597@example.com,2026-12-21,Junior Developer,NEW,Badge;Monitor;Mouse,Operations
+Maria Melnyk,maria.598@example.com,2024-04-27,QA Engineer,ACTIVE,Headset;Laptop;Badge,Sales
+Volodymyr Kovalenko,volodymyr.599@example.com,2024-12-13,DevOps Engineer,NEW,Laptop,Sales
+Anna Boyko,anna.600@example.com,2020-08-21,Project Manager,NEW,Laptop;Monitor,Finance
+Andriy Shevchenko,andriy.601@example.com,2024-12-20,Project Manager,ACTIVE,Monitor;Headset;Mouse,Finance
+Viktoria Tkachenko,viktoria.602@example.com,2020-07-31,DevOps Engineer,NEW,Monitor;Headset,Sales
+Volodymyr Bondarenko,volodymyr.603@example.com,2026-01-18,Project Manager,ACTIVE,Monitor;Mouse,Operations
+Serhiy Oliynyk,serhiy.604@example.com,2020-02-01,Junior Developer,ONBOARDING,Badge;Headset,Sales
+Dmitro Shevchenko,dmitro.605@example.com,2026-05-15,Designer,ACTIVE,Mouse,Operations
+Dmitro Melnyk,dmitro.606@example.com,2023-04-20,Project Manager,ONBOARDING,Headset;Laptop;Keyboard,HR
+Oksana Oliynyk,oksana.607@example.com,2021-05-22,DevOps Engineer,ACTIVE,Mouse,Finance
+Volodymyr Kovalenko,volodymyr.608@example.com,2020-07-23,DevOps Engineer,ACTIVE,Headset,HR
+Oksana Boyko,oksana.609@example.com,2023-08-16,Designer,ACTIVE,Keyboard,HR
+Anna Oliynyk,anna.610@example.com,2024-03-04,QA Engineer,ONBOARDING,Docking station;Headset,Sales
+Serhiy Shevchenko,serhiy.611@example.com,2020-12-05,Data Analyst,ONBOARDING,Laptop,Operations
+Oksana Boyko,oksana.612@example.com,2026-10-09,DevOps Engineer,ACTIVE,Docking station;Monitor;Laptop,HR
+Viktoria Melnyk,viktoria.613@example.com,2026-10-28,Data Analyst,ACTIVE,Badge,Sales
+Viktoria Kovalenko,viktoria.614@example.com,2024-08-22,Data Analyst,ONBOARDING,Badge;Docking station;Monitor,Operations
+Volodymyr Kovalenko,volodymyr.615@example.com,2023-03-15,Project Manager,NEW,Headset;Mouse,IT
+Dmitro Tkachenko,dmitro.616@example.com,2020-07-19,Designer,ACTIVE,Keyboard,IT
+Natalia Kovalenko,natalia.617@example.com,2024-04-29,Junior Developer,ONBOARDING,Docking station;Keyboard;Laptop,Finance
+Andriy Bondarenko,andriy.618@example.com,2024-04-24,Data Analyst,ACTIVE,Monitor;Mouse;Keyboard,Sales
+Oksana Tkachenko,oksana.619@example.com,2022-03-21,Project Manager,ONBOARDING,Mouse,HR
+Volodymyr Shevchenko,volodymyr.620@example.com,2025-07-23,Data Analyst,ACTIVE,Mouse;Monitor,Operations
+Serhiy Tkachenko,serhiy.621@example.com,2023-08-30,Junior Developer,ONBOARDING,Badge,HR
+Volodymyr Kovalenko,volodymyr.622@example.com,2020-08-27,DevOps Engineer,ONBOARDING,Headset,IT
+Viktoria Kovalenko,viktoria.623@example.com,2023-06-27,QA Engineer,ACTIVE,Keyboard,IT
+Viktoria Melnyk,viktoria.624@example.com,2023-11-02,Project Manager,ACTIVE,Headset;Docking station;Keyboard,Sales
+Anna Oliynyk,anna.625@example.com,2024-08-20,DevOps Engineer,ONBOARDING,Docking station,IT
+Oleksandr Tkachenko,oleksandr.626@example.com,2022-02-11,Junior Developer,ONBOARDING,Monitor;Docking station,Sales
+Serhiy Boyko,serhiy.627@example.com,2023-07-19,DevOps Engineer,NEW,Badge;Docking station,IT
+Serhiy Oliynyk,serhiy.628@example.com,2024-02-03,Designer,NEW,Mouse,IT
+Volodymyr Bondarenko,volodymyr.629@example.com,2023-05-05,Junior Developer,ACTIVE,Badge;Keyboard,Finance
+Igor Boyko,igor.630@example.com,2024-10-30,Data Analyst,NEW,Headset;Mouse;Laptop,Operations
+Dmitro Kovalenko,dmitro.631@example.com,2023-08-29,Project Manager,ACTIVE,Headset;Badge;Monitor,Sales
+Andriy Boyko,andriy.632@example.com,2020-10-03,Junior Developer,NEW,Laptop;Docking station,Operations
+Volodymyr Boyko,volodymyr.633@example.com,2021-09-19,Junior Developer,ACTIVE,Docking station,IT
+Yulia Bondarenko,yulia.634@example.com,2026-06-28,DevOps Engineer,ACTIVE,Badge;Monitor;Laptop,Sales
+Maria Shevchenko,maria.635@example.com,2022-08-17,DevOps Engineer,NEW,Headset;Mouse;Monitor,Operations
+Andriy Melnyk,andriy.636@example.com,2022-05-01,Designer,NEW,Keyboard;Docking station,IT
+Oksana Oliynyk,oksana.637@example.com,2025-05-28,Project Manager,NEW,Docking station;Laptop;Keyboard,HR
+Olena Shevchenko,olena.638@example.com,2026-12-11,DevOps Engineer,ACTIVE,Keyboard,IT
+Oleksandr Melnyk,oleksandr.639@example.com,2024-10-08,Designer,ACTIVE,Keyboard;Monitor;Mouse,Operations
+Natalia Tkachenko,natalia.640@example.com,2020-03-28,QA Engineer,ACTIVE,Badge;Headset;Laptop,IT
+Andriy Oliynyk,andriy.641@example.com,2024-07-21,QA Engineer,ACTIVE,Badge,Sales
+Anna Shevchenko,anna.642@example.com,2020-07-26,Data Analyst,NEW,Keyboard;Docking station,HR
+Volodymyr Oliynyk,volodymyr.643@example.com,2020-11-14,Project Manager,ACTIVE,Docking station;Keyboard;Badge,HR
+Olena Tkachenko,olena.644@example.com,2024-05-19,QA Engineer,ACTIVE,Laptop;Mouse;Monitor,HR
+Maria Boyko,maria.645@example.com,2021-03-21,Junior Developer,ONBOARDING,Laptop;Badge,Sales
+Yulia Kovalenko,yulia.646@example.com,2025-10-20,Designer,NEW,Mouse,Finance
+Natalia Bondarenko,natalia.647@example.com,2025-06-25,Junior Developer,NEW,Monitor,Sales
+Yulia Melnyk,yulia.648@example.com,2022-05-27,QA Engineer,NEW,Badge;Mouse;Docking station,IT
+Yulia Kovalenko,yulia.649@example.com,2021-09-05,Junior Developer,NEW,Mouse;Laptop,Operations
+Dmitro Shevchenko,dmitro.650@example.com,2021-10-17,Designer,ONBOARDING,Badge,HR
+Maria Melnyk,maria.651@example.com,2022-05-11,DevOps Engineer,ACTIVE,Headset;Laptop,HR
+Natalia Tkachenko,natalia.652@example.com,2026-11-20,Junior Developer,ONBOARDING,Monitor;Mouse,IT
+Oleksandr Boyko,oleksandr.653@example.com,2024-09-20,Designer,ACTIVE,Docking station;Headset,Finance
+Olena Tkachenko,olena.654@example.com,2026-05-08,DevOps Engineer,NEW,Badge;Keyboard;Monitor,HR
+Anna Oliynyk,anna.655@example.com,2022-07-31,DevOps Engineer,ONBOARDING,Keyboard;Headset,Finance
+Viktoria Shevchenko,viktoria.656@example.com,2024-07-19,Junior Developer,ONBOARDING,Mouse,IT
+Maria Melnyk,maria.657@example.com,2023-02-22,Designer,ONBOARDING,Docking station;Monitor,Sales
+Yulia Oliynyk,yulia.658@example.com,2025-10-14,Data Analyst,NEW,Monitor,IT
+Anna Oliynyk,anna.659@example.com,2023-07-05,Junior Developer,ONBOARDING,Docking station,Finance
+Maria Boyko,maria.660@example.com,2024-03-09,Designer,NEW,Headset,Sales
+Natalia Kovalenko,natalia.661@example.com,2024-04-24,Designer,NEW,Badge;Laptop,Sales
+Igor Boyko,igor.662@example.com,2025-09-10,Data Analyst,NEW,Keyboard,Operations
+Yulia Tkachenko,yulia.663@example.com,2021-12-25,Designer,NEW,Monitor;Keyboard,Sales
+Anna Bondarenko,anna.664@example.com,2024-08-17,Junior Developer,ACTIVE,Mouse,Operations
+Yulia Shevchenko,yulia.665@example.com,2026-11-16,Project Manager,ONBOARDING,Headset,Sales
+Volodymyr Boyko,volodymyr.666@example.com,2026-12-13,Data Analyst,NEW,Monitor,IT
+Olena Bondarenko,olena.667@example.com,2023-02-28,Junior Developer,ONBOARDING,Headset;Keyboard;Mouse,HR
+Natalia Kovalenko,natalia.668@example.com,2020-09-26,QA Engineer,NEW,Mouse,IT
+Igor Bondarenko,igor.669@example.com,2020-09-13,Designer,ACTIVE,Headset,HR
+Yulia Boyko,yulia.670@example.com,2024-05-16,Data Analyst,ACTIVE,Headset;Monitor,IT
+Yulia Oliynyk,yulia.671@example.com,2022-10-04,DevOps Engineer,ONBOARDING,Badge;Laptop;Mouse,HR
+Viktoria Oliynyk,viktoria.672@example.com,2024-03-24,Junior Developer,NEW,Mouse;Monitor,IT
+Yulia Kovalenko,yulia.673@example.com,2020-01-12,Data Analyst,ONBOARDING,Badge,IT
+Oleksandr Shevchenko,oleksandr.674@example.com,2026-02-07,Project Manager,ACTIVE,Badge;Monitor,IT
+Natalia Shevchenko,natalia.675@example.com,2024-05-09,QA Engineer,ONBOARDING,Docking station;Mouse,Sales
+Olena Melnyk,olena.676@example.com,2022-03-30,QA Engineer,ONBOARDING,Headset;Badge,Operations
+Olena Tkachenko,olena.677@example.com,2026-10-23,Project Manager,NEW,Monitor,IT
+Anna Kovalenko,anna.678@example.com,2025-11-02,QA Engineer,NEW,Headset;Mouse;Badge,IT
+Andriy Shevchenko,andriy.679@example.com,2023-05-22,QA Engineer,NEW,Headset;Monitor;Badge,Finance
+Serhiy Kovalenko,serhiy.680@example.com,2022-10-19,QA Engineer,NEW,Mouse;Headset;Laptop,IT
+Dmitro Oliynyk,dmitro.681@example.com,2023-05-11,Project Manager,ACTIVE,Headset;Monitor;Badge,Operations
+Volodymyr Bondarenko,volodymyr.682@example.com,2020-04-15,QA Engineer,NEW,Docking station;Badge;Mouse,IT
+Volodymyr Tkachenko,volodymyr.683@example.com,2023-08-10,Data Analyst,NEW,Headset;Monitor;Docking station,Sales
+Serhiy Melnyk,serhiy.684@example.com,2026-12-07,Data Analyst,ONBOARDING,Docking station,Operations
+Anna Shevchenko,anna.685@example.com,2025-08-05,Data Analyst,ACTIVE,Mouse;Badge;Headset,Sales
+Igor Shevchenko,igor.686@example.com,2022-09-14,Project Manager,NEW,Laptop,IT
+Serhiy Shevchenko,serhiy.687@example.com,2025-11-29,Junior Developer,NEW,Badge;Docking station;Headset,Operations
+Oleksandr Melnyk,oleksandr.688@example.com,2022-04-28,Data Analyst,ONBOARDING,Docking station;Mouse;Keyboard,IT
+Andriy Melnyk,andriy.689@example.com,2021-07-17,DevOps Engineer,NEW,Mouse,Sales
+Oksana Oliynyk,oksana.690@example.com,2021-10-23,Data Analyst,ONBOARDING,Headset;Keyboard;Badge,Operations
+Dmitro Melnyk,dmitro.691@example.com,2021-05-03,DevOps Engineer,ACTIVE,Monitor;Badge;Keyboard,Operations
+Ivan Shevchenko,ivan.692@example.com,2021-05-13,Junior Developer,ONBOARDING,Laptop;Headset,HR
+Anna Melnyk,anna.693@example.com,2026-04-09,Project Manager,ONBOARDING,Monitor;Docking station;Keyboard,Sales
+Dmitro Shevchenko,dmitro.694@example.com,2024-09-06,Designer,ONBOARDING,Mouse;Laptop;Badge,Sales
+Maria Kovalenko,maria.695@example.com,2026-10-05,QA Engineer,NEW,Headset;Monitor;Mouse,Finance
+Oleksandr Kovalenko,oleksandr.696@example.com,2021-03-29,Junior Developer,ONBOARDING,Keyboard;Monitor;Docking station,Sales
+Ivan Kovalenko,ivan.697@example.com,2021-04-16,Designer,NEW,Badge;Laptop,Finance
+Serhiy Melnyk,serhiy.698@example.com,2026-02-15,Junior Developer,ACTIVE,Keyboard;Laptop;Monitor,IT
+Natalia Melnyk,natalia.699@example.com,2021-10-28,Designer,NEW,Laptop,Sales
+Yulia Melnyk,yulia.700@example.com,2025-03-20,Data Analyst,ACTIVE,Mouse,Finance
+Oleksandr Tkachenko,oleksandr.701@example.com,2025-01-13,Designer,ACTIVE,Mouse;Badge,Finance
+Dmitro Boyko,dmitro.702@example.com,2024-04-27,Junior Developer,NEW,Badge;Monitor,Sales
+Viktoria Oliynyk,viktoria.703@example.com,2023-07-29,QA Engineer,NEW,Mouse;Badge,HR
+Oksana Boyko,oksana.704@example.com,2023-11-27,Designer,ACTIVE,Badge;Laptop,HR
+Viktoria Shevchenko,viktoria.705@example.com,2023-11-23,Project Manager,ONBOARDING,Badge,Operations
+Anna Kovalenko,anna.706@example.com,2022-01-04,Project Manager,ONBOARDING,Docking station;Headset,IT
+Anna Oliynyk,anna.707@example.com,2025-12-13,QA Engineer,ACTIVE,Headset;Keyboard;Laptop,Finance
+Anna Tkachenko,anna.708@example.com,2021-11-23,QA Engineer,NEW,Mouse,IT
+Viktoria Tkachenko,viktoria.709@example.com,2024-01-13,QA Engineer,ONBOARDING,Mouse;Badge;Monitor,Finance
+Oksana Boyko,oksana.710@example.com,2022-08-25,Data Analyst,ONBOARDING,Keyboard;Badge;Mouse,Sales
+Maria Melnyk,maria.711@example.com,2024-01-02,QA Engineer,ACTIVE,Docking station,IT
+Viktoria Kovalenko,viktoria.712@example.com,2025-02-10,Junior Developer,ACTIVE,Mouse;Headset;Keyboard,Finance
+Olena Bondarenko,olena.713@example.com,2022-12-29,Designer,NEW,Docking station;Mouse;Headset,Finance
+Igor Tkachenko,igor.714@example.com,2021-06-25,QA Engineer,ACTIVE,Docking station;Badge;Keyboard,IT
+Igor Tkachenko,igor.715@example.com,2021-03-05,QA Engineer,NEW,Keyboard;Laptop,Finance
+Oksana Shevchenko,oksana.716@example.com,2025-02-02,Data Analyst,ONBOARDING,Keyboard;Badge;Headset,IT
+Olena Melnyk,olena.717@example.com,2025-02-23,Data Analyst,NEW,Docking station;Headset;Laptop,Operations
+Igor Shevchenko,igor.718@example.com,2026-06-07,Designer,NEW,Laptop,Sales
+Viktoria Shevchenko,viktoria.719@example.com,2022-06-12,Project Manager,NEW,Laptop;Badge;Monitor,Finance
+Natalia Oliynyk,natalia.720@example.com,2026-05-30,Data Analyst,ACTIVE,Mouse;Keyboard,Operations
+Oksana Boyko,oksana.721@example.com,2023-08-01,Designer,ACTIVE,Headset;Monitor,HR
+Ivan Kovalenko,ivan.722@example.com,2025-06-03,Designer,ONBOARDING,Docking station;Badge,Operations
+Dmitro Kovalenko,dmitro.723@example.com,2026-03-20,Junior Developer,ACTIVE,Monitor;Keyboard;Mouse,Finance
+Serhiy Melnyk,serhiy.724@example.com,2023-08-28,Designer,ACTIVE,Headset;Laptop;Badge,HR
+Volodymyr Boyko,volodymyr.725@example.com,2023-05-31,Data Analyst,ONBOARDING,Monitor,Sales
+Andriy Shevchenko,andriy.726@example.com,2026-11-20,Junior Developer,ACTIVE,Keyboard;Monitor,Finance
+Dmitro Oliynyk,dmitro.727@example.com,2023-08-08,Designer,ONBOARDING,Headset;Docking station,IT
+Viktoria Kovalenko,viktoria.728@example.com,2021-08-24,QA Engineer,ACTIVE,Monitor,Finance
+Dmitro Shevchenko,dmitro.729@example.com,2026-07-07,Junior Developer,NEW,Keyboard,IT
+Viktoria Shevchenko,viktoria.730@example.com,2020-02-09,QA Engineer,ONBOARDING,Keyboard;Docking station,IT
+Volodymyr Tkachenko,volodymyr.731@example.com,2020-02-28,Junior Developer,ACTIVE,Laptop,Finance
+Serhiy Bondarenko,serhiy.732@example.com,2021-03-14,Designer,ACTIVE,Docking station;Keyboard,Operations
+Ivan Tkachenko,ivan.733@example.com,2025-05-27,Data Analyst,ACTIVE,Docking station,IT
+Viktoria Melnyk,viktoria.734@example.com,2023-03-08,QA Engineer,ONBOARDING,Docking station;Monitor,Operations
+Anna Boyko,anna.735@example.com,2026-07-23,DevOps Engineer,ONBOARDING,Mouse;Monitor;Docking station,Finance
+Oleksandr Oliynyk,oleksandr.736@example.com,2021-02-22,Junior Developer,ONBOARDING,Docking station;Keyboard,Sales
+Igor Kovalenko,igor.737@example.com,2025-05-28,QA Engineer,NEW,Laptop;Monitor,Sales
+Igor Bondarenko,igor.738@example.com,2026-06-20,DevOps Engineer,ACTIVE,Keyboard,Operations
+Maria Boyko,maria.739@example.com,2025-07-19,QA Engineer,NEW,Docking station;Badge;Monitor,HR
+Volodymyr Oliynyk,volodymyr.740@example.com,2022-02-05,Junior Developer,ONBOARDING,Mouse;Badge,IT
+Dmitro Tkachenko,dmitro.741@example.com,2024-04-22,Designer,ONBOARDING,Laptop;Headset,Operations
+Andriy Melnyk,andriy.742@example.com,2022-01-17,DevOps Engineer,NEW,Monitor;Keyboard;Laptop,Sales
+Volodymyr Oliynyk,volodymyr.743@example.com,2020-03-18,Junior Developer,ACTIVE,Mouse;Laptop,Operations
+Andriy Tkachenko,andriy.744@example.com,2023-08-11,QA Engineer,NEW,Monitor;Docking station,Operations
+Serhiy Melnyk,serhiy.745@example.com,2024-10-19,Designer,ACTIVE,Headset;Docking station,Sales
+Oksana Oliynyk,oksana.746@example.com,2024-08-08,DevOps Engineer,NEW,Mouse;Laptop;Keyboard,HR
+Serhiy Bondarenko,serhiy.747@example.com,2024-10-31,Designer,ONBOARDING,Mouse,HR
+Oleksandr Shevchenko,oleksandr.748@example.com,2024-04-10,Junior Developer,NEW,Mouse;Docking station;Keyboard,Sales
+Ivan Kovalenko,ivan.749@example.com,2021-03-31,DevOps Engineer,ACTIVE,Mouse;Headset,Sales
+Volodymyr Melnyk,volodymyr.750@example.com,2022-01-09,Designer,NEW,Laptop,Finance
+Andriy Kovalenko,andriy.751@example.com,2026-07-22,Data Analyst,NEW,Monitor,Sales
+Anna Oliynyk,anna.752@example.com,2023-07-27,Project Manager,ACTIVE,Badge,IT
+Oleksandr Bondarenko,oleksandr.753@example.com,2021-03-11,Junior Developer,ONBOARDING,Headset;Badge,Operations
+Andriy Melnyk,andriy.754@example.com,2026-04-21,DevOps Engineer,ACTIVE,Docking station,HR
+Olena Kovalenko,olena.755@example.com,2023-08-08,Project Manager,ONBOARDING,Mouse;Keyboard,Finance
+Natalia Tkachenko,natalia.756@example.com,2026-12-16,Junior Developer,ACTIVE,Headset;Keyboard;Laptop,IT
+Andriy Kovalenko,andriy.757@example.com,2020-04-30,Project Manager,NEW,Mouse;Badge;Headset,HR
+Igor Oliynyk,igor.758@example.com,2024-06-06,Project Manager,ONBOARDING,Monitor,Sales
+Igor Oliynyk,igor.759@example.com,2021-04-07,DevOps Engineer,NEW,Mouse;Keyboard;Badge,Operations
+Igor Boyko,igor.760@example.com,2026-01-25,Junior Developer,NEW,Badge;Monitor,Finance
+Natalia Tkachenko,natalia.761@example.com,2022-10-01,Junior Developer,ONBOARDING,Badge,HR
+Maria Shevchenko,maria.762@example.com,2020-07-05,Junior Developer,ONBOARDING,Laptop,Operations
+Olena Boyko,olena.763@example.com,2025-12-13,QA Engineer,NEW,Headset,Finance
+Anna Kovalenko,anna.764@example.com,2025-08-25,QA Engineer,ACTIVE,Docking station,HR
+Oleksandr Kovalenko,oleksandr.765@example.com,2025-05-23,Data Analyst,ACTIVE,Badge;Laptop,Sales
+Dmitro Bondarenko,dmitro.766@example.com,2026-12-31,Project Manager,NEW,Docking station;Headset;Mouse,Operations
+Anna Oliynyk,anna.767@example.com,2020-03-02,QA Engineer,ONBOARDING,Docking station,Operations
+Yulia Kovalenko,yulia.768@example.com,2024-03-05,Project Manager,ONBOARDING,Mouse;Docking station,Finance
+Olena Shevchenko,olena.769@example.com,2025-09-03,Junior Developer,ONBOARDING,Docking station;Monitor;Keyboard,HR
+Viktoria Bondarenko,viktoria.770@example.com,2025-01-24,Junior Developer,ACTIVE,Headset,Operations
+Ivan Melnyk,ivan.771@example.com,2024-02-15,DevOps Engineer,NEW,Badge;Keyboard,Operations
+Oksana Boyko,oksana.772@example.com,2021-03-15,QA Engineer,ACTIVE,Keyboard;Headset,Finance
+Igor Boyko,igor.773@example.com,2023-12-20,Junior Developer,ONBOARDING,Laptop;Docking station,Operations
+Igor Tkachenko,igor.774@example.com,2022-11-10,DevOps Engineer,ACTIVE,Docking station;Monitor;Headset,Finance
+Maria Boyko,maria.775@example.com,2020-05-19,DevOps Engineer,ONBOARDING,Laptop;Keyboard,Finance
+Dmitro Bondarenko,dmitro.776@example.com,2025-10-19,Designer,ACTIVE,Monitor;Keyboard;Docking station,IT
+Dmitro Melnyk,dmitro.777@example.com,2022-09-23,QA Engineer,ACTIVE,Badge;Monitor;Keyboard,Finance
+Volodymyr Boyko,volodymyr.778@example.com,2022-10-23,Junior Developer,ONBOARDING,Mouse,Sales
+Oksana Boyko,oksana.779@example.com,2024-09-15,Junior Developer,ONBOARDING,Headset;Badge;Mouse,IT
+Andriy Bondarenko,andriy.780@example.com,2023-08-21,Project Manager,ACTIVE,Headset;Laptop;Keyboard,HR
+Oksana Kovalenko,oksana.781@example.com,2022-08-27,Data Analyst,ACTIVE,Docking station;Mouse;Laptop,IT
+Andriy Kovalenko,andriy.782@example.com,2020-03-06,Project Manager,ONBOARDING,Keyboard;Monitor,Finance
+Oksana Boyko,oksana.783@example.com,2020-05-26,Project Manager,NEW,Mouse;Docking station;Headset,IT
+Oksana Tkachenko,oksana.784@example.com,2023-07-04,Project Manager,NEW,Monitor;Keyboard;Mouse,IT
+Yulia Bondarenko,yulia.785@example.com,2026-08-27,Project Manager,NEW,Laptop;Docking station;Monitor,HR
+Yulia Bondarenko,yulia.786@example.com,2020-12-01,Designer,ONBOARDING,Keyboard;Headset;Docking station,Operations
+Viktoria Melnyk,viktoria.787@example.com,2020-06-19,DevOps Engineer,ONBOARDING,Badge;Headset;Laptop,HR
+Ivan Kovalenko,ivan.788@example.com,2026-08-04,Project Manager,NEW,Keyboard;Mouse,IT
+Yulia Oliynyk,yulia.789@example.com,2020-11-14,Junior Developer,NEW,Badge;Monitor,HR
+Serhiy Melnyk,serhiy.790@example.com,2024-09-27,Designer,NEW,Mouse;Headset,HR
+Maria Melnyk,maria.791@example.com,2021-02-03,Junior Developer,NEW,Monitor,Operations
+Olena Bondarenko,olena.792@example.com,2024-02-03,QA Engineer,NEW,Docking station;Laptop;Monitor,Operations
+Olena Oliynyk,olena.793@example.com,2020-12-24,Data Analyst,ACTIVE,Docking station;Mouse;Keyboard,Operations
+Dmitro Oliynyk,dmitro.794@example.com,2023-12-04,Junior Developer,ONBOARDING,Laptop;Badge,Finance
+Andriy Tkachenko,andriy.795@example.com,2026-03-17,DevOps Engineer,NEW,Laptop;Headset;Monitor,IT
+Igor Boyko,igor.796@example.com,2020-09-08,Project Manager,NEW,Badge,Operations
+Yulia Melnyk,yulia.797@example.com,2021-12-05,QA Engineer,ONBOARDING,Badge,IT
+Oksana Shevchenko,oksana.798@example.com,2023-07-05,DevOps Engineer,ACTIVE,Monitor;Keyboard,Finance
+Volodymyr Bondarenko,volodymyr.799@example.com,2023-07-01,Project Manager,ACTIVE,Headset;Monitor;Mouse,Sales
+Natalia Shevchenko,natalia.800@example.com,2023-01-28,DevOps Engineer,ACTIVE,Keyboard;Monitor;Badge,Sales
+Andriy Melnyk,andriy.801@example.com,2023-05-16,Designer,ACTIVE,Laptop;Docking station;Monitor,IT
+Serhiy Boyko,serhiy.802@example.com,2020-05-17,Project Manager,ONBOARDING,Headset;Keyboard;Mouse,Sales
+Anna Boyko,anna.803@example.com,2020-04-22,Project Manager,ACTIVE,Keyboard;Monitor;Docking station,Sales
+Ivan Kovalenko,ivan.804@example.com,2023-04-26,Project Manager,NEW,Mouse,Finance
+Viktoria Bondarenko,viktoria.805@example.com,2026-10-24,Designer,ACTIVE,Mouse;Headset;Badge,Operations
+Dmitro Oliynyk,dmitro.806@example.com,2024-10-04,QA Engineer,NEW,Laptop,IT
+Oleksandr Kovalenko,oleksandr.807@example.com,2021-05-03,Junior Developer,NEW,Mouse;Badge,IT
+Volodymyr Shevchenko,volodymyr.808@example.com,2023-10-08,QA Engineer,ONBOARDING,Monitor;Keyboard;Docking station,Finance
+Viktoria Melnyk,viktoria.809@example.com,2021-01-24,Data Analyst,ONBOARDING,Docking station;Mouse,Sales
+Ivan Shevchenko,ivan.810@example.com,2023-11-18,Data Analyst,ONBOARDING,Laptop;Keyboard;Headset,IT
+Oleksandr Shevchenko,oleksandr.811@example.com,2022-01-24,Project Manager,ONBOARDING,Docking station;Keyboard,Operations
+Natalia Kovalenko,natalia.812@example.com,2023-01-20,Designer,NEW,Monitor;Laptop;Mouse,HR
+Andriy Boyko,andriy.813@example.com,2021-06-03,Project Manager,ONBOARDING,Docking station;Keyboard;Mouse,Sales
+Anna Melnyk,anna.814@example.com,2023-08-09,QA Engineer,NEW,Mouse;Keyboard,Sales
+Serhiy Kovalenko,serhiy.815@example.com,2025-01-27,Junior Developer,NEW,Headset;Docking station;Mouse,IT
+Volodymyr Boyko,volodymyr.816@example.com,2022-03-04,QA Engineer,NEW,Laptop,Sales
+Ivan Bondarenko,ivan.817@example.com,2025-05-22,DevOps Engineer,NEW,Keyboard;Mouse;Badge,HR
+Ivan Melnyk,ivan.818@example.com,2026-03-28,Junior Developer,ACTIVE,Monitor,IT
+Natalia Kovalenko,natalia.819@example.com,2026-06-04,DevOps Engineer,ONBOARDING,Docking station;Badge;Monitor,Sales
+Yulia Tkachenko,yulia.820@example.com,2020-11-05,Designer,ACTIVE,Keyboard,Sales
+Andriy Oliynyk,andriy.821@example.com,2022-02-19,QA Engineer,NEW,Docking station,IT
+Serhiy Melnyk,serhiy.822@example.com,2021-11-07,Junior Developer,NEW,Headset,Operations
+Volodymyr Kovalenko,volodymyr.823@example.com,2023-10-24,Data Analyst,ACTIVE,Monitor,IT
+Yulia Tkachenko,yulia.824@example.com,2024-12-15,Data Analyst,NEW,Headset,Operations
+Viktoria Shevchenko,viktoria.825@example.com,2021-01-08,DevOps Engineer,NEW,Laptop,IT
+Viktoria Tkachenko,viktoria.826@example.com,2022-06-26,DevOps Engineer,ONBOARDING,Laptop;Monitor;Docking station,IT
+Ivan Shevchenko,ivan.827@example.com,2024-06-02,DevOps Engineer,NEW,Docking station;Monitor;Keyboard,Finance
+Dmitro Shevchenko,dmitro.828@example.com,2026-07-06,Junior Developer,ONBOARDING,Headset,IT
+Oleksandr Melnyk,oleksandr.829@example.com,2022-06-26,DevOps Engineer,ONBOARDING,Monitor;Headset,Finance
+Igor Melnyk,igor.830@example.com,2022-06-19,Designer,ACTIVE,Laptop,Finance
+Yulia Shevchenko,yulia.831@example.com,2025-06-25,Designer,NEW,Keyboard;Docking station;Monitor,HR
+Igor Melnyk,igor.832@example.com,2022-03-09,Data Analyst,ONBOARDING,Laptop;Mouse;Docking station,HR
+Serhiy Shevchenko,serhiy.833@example.com,2022-07-06,Junior Developer,NEW,Mouse;Headset,Sales
+Serhiy Boyko,serhiy.834@example.com,2022-02-21,Junior Developer,ONBOARDING,Keyboard,Sales
+Oleksandr Shevchenko,oleksandr.835@example.com,2023-03-15,DevOps Engineer,ACTIVE,Docking station;Mouse,IT
+Yulia Tkachenko,yulia.836@example.com,2025-08-10,QA Engineer,ACTIVE,Docking station;Keyboard,Operations
+Natalia Shevchenko,natalia.837@example.com,2024-12-30,Designer,ONBOARDING,Laptop;Keyboard;Monitor,Finance
+Oleksandr Tkachenko,oleksandr.838@example.com,2021-02-02,QA Engineer,ACTIVE,Keyboard,HR
+Volodymyr Kovalenko,volodymyr.839@example.com,2021-06-18,DevOps Engineer,ONBOARDING,Badge,IT
+Maria Oliynyk,maria.840@example.com,2025-02-11,Junior Developer,ACTIVE,Docking station;Monitor,Sales
+Andriy Kovalenko,andriy.841@example.com,2021-07-31,Data Analyst,ONBOARDING,Laptop;Monitor,Operations
+Yulia Oliynyk,yulia.842@example.com,2022-09-17,Designer,ONBOARDING,Monitor;Docking station,HR
+Ivan Tkachenko,ivan.843@example.com,2022-01-28,DevOps Engineer,ONBOARDING,Docking station;Mouse;Badge,HR
+Serhiy Melnyk,serhiy.844@example.com,2021-10-06,Project Manager,NEW,Badge,Finance
+Anna Melnyk,anna.845@example.com,2023-01-06,Designer,ACTIVE,Docking station;Mouse;Headset,Operations
+Anna Boyko,anna.846@example.com,2024-12-23,Data Analyst,ONBOARDING,Monitor;Docking station,Finance
+Ivan Melnyk,ivan.847@example.com,2022-01-03,Junior Developer,ONBOARDING,Headset;Monitor,Operations
+Ivan Melnyk,ivan.848@example.com,2023-08-28,Data Analyst,ONBOARDING,Monitor,HR
+Igor Boyko,igor.849@example.com,2022-03-30,Junior Developer,ONBOARDING,Mouse;Laptop;Headset,HR
+Anna Boyko,anna.850@example.com,2024-10-26,DevOps Engineer,ONBOARDING,Monitor;Laptop;Mouse,IT
+Dmitro Bondarenko,dmitro.851@example.com,2023-03-25,Data Analyst,ONBOARDING,Headset;Keyboard,Sales
+Dmitro Kovalenko,dmitro.852@example.com,2020-06-03,Project Manager,NEW,Docking station,HR
+Yulia Tkachenko,yulia.853@example.com,2020-11-14,DevOps Engineer,ACTIVE,Keyboard;Mouse;Docking station,Operations
+Yulia Bondarenko,yulia.854@example.com,2024-09-03,Junior Developer,NEW,Keyboard,Finance
+Volodymyr Oliynyk,volodymyr.855@example.com,2022-12-27,DevOps Engineer,ACTIVE,Badge,IT
+Olena Bondarenko,olena.856@example.com,2020-05-31,DevOps Engineer,ONBOARDING,Headset;Badge;Keyboard,HR
+Anna Boyko,anna.857@example.com,2026-07-28,Project Manager,NEW,Mouse;Headset,IT
+Viktoria Tkachenko,viktoria.858@example.com,2021-03-30,Junior Developer,ACTIVE,Laptop;Badge;Monitor,Operations
+Olena Melnyk,olena.859@example.com,2021-07-07,Data Analyst,ONBOARDING,Laptop;Mouse;Headset,IT
+Olena Bondarenko,olena.860@example.com,2021-02-06,Data Analyst,NEW,Laptop;Docking station,HR
+Oleksandr Shevchenko,oleksandr.861@example.com,2026-07-17,DevOps Engineer,NEW,Laptop;Keyboard,Sales
+Dmitro Boyko,dmitro.862@example.com,2026-08-01,QA Engineer,ONBOARDING,Mouse;Headset,Operations
+Igor Melnyk,igor.863@example.com,2025-02-18,Data Analyst,ACTIVE,Laptop;Headset,IT
+Igor Kovalenko,igor.864@example.com,2021-08-06,Junior Developer,ACTIVE,Keyboard;Mouse,Finance
+Volodymyr Shevchenko,volodymyr.865@example.com,2021-09-27,DevOps Engineer,ONBOARDING,Badge;Docking station;Keyboard,Sales
+Yulia Melnyk,yulia.866@example.com,2020-10-23,Designer,ACTIVE,Mouse,Operations
+Volodymyr Melnyk,volodymyr.867@example.com,2026-12-01,DevOps Engineer,ACTIVE,Mouse,IT
+Viktoria Shevchenko,viktoria.868@example.com,2023-11-19,Project Manager,ACTIVE,Docking station;Badge,Sales
+Olena Melnyk,olena.869@example.com,2021-06-05,Junior Developer,NEW,Mouse;Monitor;Keyboard,Finance
+Yulia Bondarenko,yulia.870@example.com,2024-05-10,QA Engineer,NEW,Monitor;Keyboard,HR
+Viktoria Boyko,viktoria.871@example.com,2025-03-09,DevOps Engineer,NEW,Mouse,HR
+Volodymyr Boyko,volodymyr.872@example.com,2025-07-09,Junior Developer,ACTIVE,Badge;Laptop,Operations
+Viktoria Kovalenko,viktoria.873@example.com,2024-05-11,Junior Developer,NEW,Badge;Docking station;Keyboard,HR
+Dmitro Boyko,dmitro.874@example.com,2024-05-09,Junior Developer,NEW,Docking station,IT
+Igor Bondarenko,igor.875@example.com,2023-10-11,QA Engineer,ACTIVE,Keyboard;Headset,Operations
+Anna Bondarenko,anna.876@example.com,2025-09-15,QA Engineer,ONBOARDING,Headset,Operations
+Maria Bondarenko,maria.877@example.com,2023-03-18,DevOps Engineer,NEW,Keyboard,Sales
+Andriy Kovalenko,andriy.878@example.com,2025-04-04,DevOps Engineer,ONBOARDING,Headset,Operations
+Oksana Boyko,oksana.879@example.com,2022-06-24,Data Analyst,ONBOARDING,Laptop,Sales
+Oksana Oliynyk,oksana.880@example.com,2021-11-02,Data Analyst,ACTIVE,Badge;Monitor,Sales
+Ivan Bondarenko,ivan.881@example.com,2022-11-06,DevOps Engineer,ONBOARDING,Headset;Keyboard,Finance
+Oksana Kovalenko,oksana.882@example.com,2024-04-06,Project Manager,ONBOARDING,Badge,Operations
+Volodymyr Kovalenko,volodymyr.883@example.com,2022-11-19,QA Engineer,ONBOARDING,Headset;Docking station,Finance
+Dmitro Tkachenko,dmitro.884@example.com,2020-11-06,Junior Developer,ACTIVE,Headset;Laptop,IT
+Maria Shevchenko,maria.885@example.com,2026-07-17,Junior Developer,NEW,Docking station;Headset;Keyboard,HR
+Dmitro Tkachenko,dmitro.886@example.com,2026-05-19,QA Engineer,ONBOARDING,Monitor;Keyboard;Headset,Operations
+Dmitro Kovalenko,dmitro.887@example.com,2023-06-04,DevOps Engineer,ONBOARDING,Headset;Badge;Docking station,Operations
+Maria Bondarenko,maria.888@example.com,2020-07-29,DevOps Engineer,NEW,Laptop;Mouse;Keyboard,IT
+Maria Kovalenko,maria.889@example.com,2025-10-11,Junior Developer,ONBOARDING,Headset,HR
+Igor Bondarenko,igor.890@example.com,2026-01-27,QA Engineer,ONBOARDING,Headset,HR
+Dmitro Tkachenko,dmitro.891@example.com,2022-02-28,Data Analyst,ONBOARDING,Monitor;Badge,Finance
+Yulia Bondarenko,yulia.892@example.com,2026-09-03,Junior Developer,NEW,Keyboard;Monitor;Mouse,IT
+Serhiy Shevchenko,serhiy.893@example.com,2025-07-08,Project Manager,NEW,Keyboard,Sales
+Natalia Oliynyk,natalia.894@example.com,2022-05-14,DevOps Engineer,NEW,Laptop;Monitor;Keyboard,Operations
+Maria Boyko,maria.895@example.com,2023-11-16,Designer,ONBOARDING,Laptop,IT
+Oleksandr Oliynyk,oleksandr.896@example.com,2021-07-23,Junior Developer,ONBOARDING,Laptop,Finance
+Anna Shevchenko,anna.897@example.com,2022-01-17,Project Manager,ONBOARDING,Keyboard;Docking station;Headset,IT
+Viktoria Oliynyk,viktoria.898@example.com,2022-08-16,Designer,NEW,Headset,Operations
+Dmitro Tkachenko,dmitro.899@example.com,2024-09-01,Designer,ONBOARDING,Headset,Finance
+Ivan Shevchenko,ivan.900@example.com,2020-07-06,Project Manager,ONBOARDING,Badge;Headset;Keyboard,Finance
+Dmitro Kovalenko,dmitro.901@example.com,2020-07-24,Project Manager,ACTIVE,Monitor;Docking station;Headset,HR
+Dmitro Shevchenko,dmitro.902@example.com,2022-08-29,Designer,ONBOARDING,Keyboard,IT
+Igor Melnyk,igor.903@example.com,2026-06-27,DevOps Engineer,ACTIVE,Docking station,Operations
+Viktoria Oliynyk,viktoria.904@example.com,2024-01-31,Designer,NEW,Mouse;Laptop,Operations
+Ivan Tkachenko,ivan.905@example.com,2023-09-15,DevOps Engineer,ONBOARDING,Headset;Mouse,Operations
+Maria Boyko,maria.906@example.com,2025-07-25,Project Manager,ACTIVE,Docking station;Mouse,IT
+Oleksandr Kovalenko,oleksandr.907@example.com,2021-12-11,Data Analyst,NEW,Keyboard;Headset;Docking station,Sales
+Viktoria Kovalenko,viktoria.908@example.com,2021-02-14,Designer,ACTIVE,Monitor;Headset;Docking station,Finance
+Oleksandr Oliynyk,oleksandr.909@example.com,2024-03-03,Project Manager,ACTIVE,Docking station,Finance
+Serhiy Oliynyk,serhiy.910@example.com,2023-07-27,Junior Developer,NEW,Keyboard;Docking station;Laptop,HR
+Olena Tkachenko,olena.911@example.com,2024-05-09,Junior Developer,ONBOARDING,Badge,Finance
+Ivan Kovalenko,ivan.912@example.com,2024-06-13,Project Manager,NEW,Monitor,Operations
+Ivan Kovalenko,ivan.913@example.com,2025-08-03,Data Analyst,ACTIVE,Docking station;Keyboard;Monitor,Finance
+Yulia Boyko,yulia.914@example.com,2024-07-23,Designer,NEW,Docking station;Laptop;Badge,HR
+Oksana Boyko,oksana.915@example.com,2026-08-28,Designer,ACTIVE,Keyboard;Headset,IT
+Igor Tkachenko,igor.916@example.com,2020-12-07,QA Engineer,ONBOARDING,Laptop;Mouse,Finance
+Serhiy Kovalenko,serhiy.917@example.com,2020-07-02,Junior Developer,ACTIVE,Monitor;Keyboard;Headset,Operations
+Dmitro Shevchenko,dmitro.918@example.com,2023-01-29,Junior Developer,NEW,Monitor,Operations
+Ivan Shevchenko,ivan.919@example.com,2026-03-10,DevOps Engineer,ACTIVE,Monitor,IT
+Oksana Boyko,oksana.920@example.com,2022-04-10,DevOps Engineer,ONBOARDING,Mouse;Keyboard;Badge,HR
+Andriy Kovalenko,andriy.921@example.com,2021-09-22,QA Engineer,ONBOARDING,Docking station;Headset,IT
+Oleksandr Boyko,oleksandr.922@example.com,2022-06-27,Designer,ACTIVE,Headset;Mouse;Laptop,Sales
+Ivan Melnyk,ivan.923@example.com,2025-06-12,Junior Developer,ONBOARDING,Mouse;Laptop,Operations
+Oksana Bondarenko,oksana.924@example.com,2025-01-13,QA Engineer,ACTIVE,Monitor;Mouse,HR
+Olena Boyko,olena.925@example.com,2021-01-16,Designer,NEW,Headset;Laptop,IT
+Natalia Shevchenko,natalia.926@example.com,2022-06-13,Designer,NEW,Keyboard,HR
+Igor Tkachenko,igor.927@example.com,2021-05-31,Junior Developer,NEW,Keyboard,HR
+Natalia Oliynyk,natalia.928@example.com,2021-07-09,DevOps Engineer,ONBOARDING,Monitor;Keyboard;Badge,Finance
+Serhiy Kovalenko,serhiy.929@example.com,2024-11-02,Project Manager,NEW,Docking station,Operations
+Oleksandr Tkachenko,oleksandr.930@example.com,2025-04-10,Designer,ONBOARDING,Monitor;Mouse,HR
+Ivan Kovalenko,ivan.931@example.com,2023-09-10,Project Manager,NEW,Mouse;Keyboard,Sales
+Igor Bondarenko,igor.932@example.com,2020-11-17,Project Manager,ACTIVE,Mouse;Monitor,IT
+Natalia Tkachenko,natalia.933@example.com,2025-02-04,Data Analyst,ACTIVE,Monitor;Badge;Headset,Operations
+Volodymyr Oliynyk,volodymyr.934@example.com,2023-06-08,Designer,ACTIVE,Laptop,IT
+Natalia Boyko,natalia.935@example.com,2022-12-08,Project Manager,ACTIVE,Docking station,Operations
+Dmitro Boyko,dmitro.936@example.com,2025-09-23,QA Engineer,ONBOARDING,Mouse;Headset;Docking station,Sales
+Ivan Tkachenko,ivan.937@example.com,2024-06-01,DevOps Engineer,ACTIVE,Docking station;Headset;Badge,Operations
+Volodymyr Oliynyk,volodymyr.938@example.com,2026-03-14,DevOps Engineer,ONBOARDING,Badge,HR
+Natalia Boyko,natalia.939@example.com,2022-10-04,DevOps Engineer,NEW,Laptop,Finance
+Anna Kovalenko,anna.940@example.com,2022-08-19,QA Engineer,ACTIVE,Monitor;Mouse,Sales
+Maria Boyko,maria.941@example.com,2022-01-13,QA Engineer,ONBOARDING,Laptop;Headset,Sales
+Igor Boyko,igor.942@example.com,2024-11-01,Project Manager,ONBOARDING,Headset;Badge;Mouse,Finance
+Natalia Kovalenko,natalia.943@example.com,2024-12-17,Project Manager,ACTIVE,Monitor;Laptop,HR
+Igor Boyko,igor.944@example.com,2020-12-11,Data Analyst,ACTIVE,Keyboard;Mouse;Headset,Operations
+Viktoria Shevchenko,viktoria.945@example.com,2025-10-14,Project Manager,NEW,Mouse,IT
+Ivan Kovalenko,ivan.946@example.com,2025-12-22,Junior Developer,NEW,Headset;Badge,Operations
+Volodymyr Tkachenko,volodymyr.947@example.com,2022-02-01,Designer,ACTIVE,Mouse;Monitor;Headset,HR
+Ivan Melnyk,ivan.948@example.com,2024-06-05,Junior Developer,ACTIVE,Headset;Laptop,HR
+Yulia Oliynyk,yulia.949@example.com,2022-04-09,DevOps Engineer,ONBOARDING,Mouse;Monitor;Keyboard,Sales
+Anna Melnyk,anna.950@example.com,2025-03-08,DevOps Engineer,ACTIVE,Headset,Finance
+Natalia Melnyk,natalia.951@example.com,2020-01-04,Designer,ONBOARDING,Badge,Sales
+Viktoria Tkachenko,viktoria.952@example.com,2020-07-16,DevOps Engineer,ONBOARDING,Docking station,Operations
+Igor Melnyk,igor.953@example.com,2026-10-12,DevOps Engineer,NEW,Mouse,Operations
+Volodymyr Tkachenko,volodymyr.954@example.com,2026-06-10,DevOps Engineer,ONBOARDING,Monitor;Laptop,Sales
+Andriy Kovalenko,andriy.955@example.com,2023-05-14,DevOps Engineer,ACTIVE,Monitor,IT
+Anna Melnyk,anna.956@example.com,2025-12-10,Designer,ONBOARDING,Badge;Docking station;Monitor,Operations
+Yulia Kovalenko,yulia.957@example.com,2022-05-24,QA Engineer,ONBOARDING,Headset,HR
+Olena Shevchenko,olena.958@example.com,2024-11-18,Project Manager,ACTIVE,Mouse;Badge;Laptop,HR
+Dmitro Tkachenko,dmitro.959@example.com,2023-03-04,Project Manager,NEW,Badge;Headset,Finance
+Maria Oliynyk,maria.960@example.com,2020-01-20,QA Engineer,ACTIVE,Docking station;Badge;Headset,Sales
+Ivan Bondarenko,ivan.961@example.com,2021-02-14,Junior Developer,NEW,Mouse;Monitor;Headset,Sales
+Volodymyr Oliynyk,volodymyr.962@example.com,2026-03-25,Data Analyst,ONBOARDING,Docking station;Laptop;Keyboard,Operations
+Andriy Kovalenko,andriy.963@example.com,2023-10-08,DevOps Engineer,NEW,Laptop;Keyboard,IT
+Yulia Oliynyk,yulia.964@example.com,2024-03-18,Data Analyst,ACTIVE,Headset;Mouse;Docking station,IT
+Igor Shevchenko,igor.965@example.com,2022-10-27,QA Engineer,ONBOARDING,Badge;Mouse;Headset,Finance
+Dmitro Oliynyk,dmitro.966@example.com,2026-08-14,Project Manager,ACTIVE,Monitor;Laptop,Operations
+Natalia Tkachenko,natalia.967@example.com,2022-05-27,QA Engineer,ACTIVE,Monitor;Badge,Finance
+Olena Tkachenko,olena.968@example.com,2023-05-20,DevOps Engineer,NEW,Monitor;Badge,Sales
+Viktoria Shevchenko,viktoria.969@example.com,2022-11-14,Designer,ONBOARDING,Laptop;Badge;Mouse,IT
+Yulia Kovalenko,yulia.970@example.com,2021-01-10,Designer,NEW,Mouse,Finance
+Dmitro Bondarenko,dmitro.971@example.com,2021-11-03,Junior Developer,ONBOARDING,Laptop;Keyboard;Headset,HR
+Maria Melnyk,maria.972@example.com,2024-08-09,QA Engineer,NEW,Monitor;Headset,IT
+Natalia Shevchenko,natalia.973@example.com,2021-08-10,Junior Developer,ACTIVE,Monitor;Laptop,HR
+Yulia Oliynyk,yulia.974@example.com,2025-07-22,Data Analyst,ONBOARDING,Keyboard;Docking station;Headset,Operations
+Anna Boyko,anna.975@example.com,2023-08-03,DevOps Engineer,ACTIVE,Laptop;Mouse;Badge,HR
+Dmitro Melnyk,dmitro.976@example.com,2022-10-15,Project Manager,NEW,Mouse;Keyboard,Sales
+Anna Boyko,anna.977@example.com,2023-07-19,DevOps Engineer,NEW,Badge;Monitor,IT
+Oleksandr Bondarenko,oleksandr.978@example.com,2022-02-01,Junior Developer,ACTIVE,Keyboard,HR
+Oleksandr Melnyk,oleksandr.979@example.com,2025-08-07,QA Engineer,ONBOARDING,Monitor;Mouse,Finance
+Serhiy Melnyk,serhiy.980@example.com,2023-01-15,QA Engineer,ONBOARDING,Keyboard;Badge;Headset,HR
+Olena Bondarenko,olena.981@example.com,2023-07-15,Designer,NEW,Headset;Laptop;Docking station,Operations
+Viktoria Melnyk,viktoria.982@example.com,2022-07-11,Junior Developer,ACTIVE,Badge;Mouse;Headset,Operations
+Serhiy Boyko,serhiy.983@example.com,2025-06-17,Designer,ONBOARDING,Laptop;Docking station,Sales
+Volodymyr Shevchenko,volodymyr.984@example.com,2021-04-22,Designer,ACTIVE,Badge,Finance
+Natalia Shevchenko,natalia.985@example.com,2022-07-24,DevOps Engineer,ONBOARDING,Monitor,Sales
+Yulia Tkachenko,yulia.986@example.com,2025-11-09,DevOps Engineer,ACTIVE,Mouse;Headset;Monitor,Operations
+Anna Boyko,anna.987@example.com,2023-11-29,Designer,ACTIVE,Monitor;Laptop,Finance
+Oksana Melnyk,oksana.988@example.com,2022-01-16,Designer,ONBOARDING,Laptop,HR
+Volodymyr Boyko,volodymyr.989@example.com,2022-10-16,Project Manager,ACTIVE,Keyboard;Headset;Badge,HR
+Olena Shevchenko,olena.990@example.com,2025-04-23,Designer,ACTIVE,Mouse;Docking station,Sales
+Yulia Tkachenko,yulia.991@example.com,2023-04-02,Data Analyst,ACTIVE,Keyboard,Operations
+Olena Boyko,olena.992@example.com,2023-05-15,Data Analyst,ACTIVE,Badge;Laptop;Docking station,HR
+Andriy Melnyk,andriy.993@example.com,2022-03-21,QA Engineer,NEW,Monitor;Keyboard,IT
+Oleksandr Tkachenko,oleksandr.994@example.com,2024-04-25,Designer,ACTIVE,Docking station;Headset;Mouse,HR
+Natalia Tkachenko,natalia.995@example.com,2020-08-07,DevOps Engineer,ACTIVE,Badge,IT
+Ivan Oliynyk,ivan.996@example.com,2025-10-26,Data Analyst,ONBOARDING,Monitor,Sales
+Yulia Bondarenko,yulia.997@example.com,2022-05-28,DevOps Engineer,NEW,Monitor;Keyboard;Mouse,Sales
+Olena Bondarenko,olena.998@example.com,2023-12-30,DevOps Engineer,ONBOARDING,Badge;Mouse,Sales
+Ivan Bondarenko,ivan.999@example.com,2020-12-09,Junior Developer,NEW,Keyboard;Docking station;Monitor,HR

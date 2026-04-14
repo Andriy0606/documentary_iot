@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Database
+hospital.db
+*.sqlite3
+
+# CSV files (якщо не хочеш пушити вхідні дані)
+patients.csv
+
+# IDE settings
+.vscode/
+.idea/
