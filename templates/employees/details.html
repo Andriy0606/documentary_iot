@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}Employee details{% endblock %}
+{% block content %}
+  <div class="card">
+    <div class="topbar" style="margin:0 0 12px 0;">
+      <div>
+        <div style="font-size:18px; font-weight:700;">{{ employee.full_name }}</div>
+        <div class="muted">Employee #{{ employee.id }}</div>
+      </div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap;">
+        <a class="btn" href="/employees">← Список</a>
+        <a class="btn primary" href="/employees/{{ employee.id }}/edit">Edit</a>
+        <form method="post" action="/employees/{{ employee.id }}/delete" style="display:inline;">
+          <button class="btn danger" type="submit">Delete</button>
+        </form>
+      </div>
+    </div>
+
+    <div class="grid">
+      <div class="card" style="padding: 12px;">
+        <div class="muted" style="margin-bottom: 8px;">Дані</div>
+        <div><span class="muted">Email:</span> {{ employee.email }}</div>
+        <div><span class="muted">Start date:</span> {{ employee.start_date }}</div>
+        <div><span class="muted">Position:</span> {{ employee.position }}</div>
+        <div><span class="muted">Status:</span> {{ employee.status }}</div>
+      </div>
+
+      <div class="card" style="padding: 12px;">
+        <div class="muted" style="margin-bottom: 8px;">Equipment</div>
+        {% if equipment|length == 0 %}
+          <div class="muted">Нічого не призначено.</div>
+        {% else %}
+          <ul style="margin: 0; padding-left: 18px;">
+            {% for eq in equipment %}
+              <li>{{ eq.name }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endblock %}
+

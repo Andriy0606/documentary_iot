@@ -3,11 +3,13 @@ from fastapi import FastAPI
 from container import Container
 from models.models import Base, Employee
 from dal.database import engine
+from presentation.web import router as web_router
 
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 container = Container()
+app.include_router(web_router)
 
 @app.post("/import-data")
 def import_csv():
