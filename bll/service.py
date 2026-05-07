@@ -1,9 +1,11 @@
 from models.models import Employee, EmployeeEquipment
+from outputs.base import OutputStrategy
 
 class EmployeeService:
-    def __init__(self, employee_repo, equipment_repo):
+    def __init__(self, employee_repo, equipment_repo, output: OutputStrategy):
         self.employee_repo = employee_repo
         self.equipment_repo = equipment_repo
+        self.output = output
 
     def list_employees(self):
         return self.employee_repo.list()
@@ -86,13 +88,16 @@ class EmployeeService:
         return self.employee_repo.delete(employee_id)
 
     def process_csv(self, path: str):
+        self.output.emit(f"CSV import started: path={path}")
         rows = self.employee_repo.read_csv(path)
+        self.output.emit(f"CSV rows loaded: {len(rows)}")
         with self.employee_repo.session_factory() as session:
             session.query(EmployeeEquipment).delete()
             session.query(Employee).delete()
             session.commit()
+        self.output.emit("DB cleaned: employees & equipment")
 
-        for row in rows:
+        for idx, row in enumerate(rows, start=1):
             # CSV: full_name,email,start_date,position,status,equipment,department
             full_name = (row[0] or "").strip()
             email = (row[1] or "").strip()
@@ -119,4 +124,10 @@ class EmployeeService:
                 ]
             self.equipment_repo.save_many(equipment_items)
 
+            if idx == 1 or idx % 100 == 0 or idx == len(rows):
+                self.output.emit(
+                    f"Imported {idx}/{len(rows)}: id={saved_employee.id}, email={saved_employee.email}"
+                )
+
+        self.output.emit("CSV import finished")
         return True
