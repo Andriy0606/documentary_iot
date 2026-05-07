@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+dependency-injector
+jinja2
+python-multipart
+authlib
+python-dotenv
+itsdangerous
+httpx
+confluent-kafka

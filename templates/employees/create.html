@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block title %}Create employee{% endblock %}
+{% block content %}
+  <div class="card">
+    <div style="display:flex; align-items:flex-end; justify-content:space-between; gap:12px; margin-bottom: 12px;">
+      <div>
+        <div style="font-size:18px; font-weight:700;">Додати співробітника</div>
+        <div class="muted">Equipment вводьте через “;” (наприклад: Laptop; Badge; Headset).</div>
+      </div>
+      <a class="btn" href="/employees">← Назад</a>
+    </div>
+
+    <form method="post" action="/employees/create">
+      <div class="grid">
+        <div class="field">
+          <label>ПІБ</label>
+          <input name="full_name" required />
+        </div>
+        <div class="field">
+          <label>Email</label>
+          <input name="email" required />
+        </div>
+        <div class="field">
+          <label>Дата старту</label>
+          <input name="start_date" placeholder="YYYY-MM-DD" />
+        </div>
+        <div class="field">
+          <label>Посада</label>
+          <input name="position" />
+        </div>
+        <div class="field">
+          <label>Статус</label>
+          <input name="status" value="NEW" />
+        </div>
+        <div class="field">
+          <label>Equipment</label>
+          <input name="equipment" placeholder="Laptop; Badge; Headset" />
+        </div>
+      </div>
+      <div class="footer-actions">
+        <button class="btn primary" type="submit">Створити</button>
+      </div>
+    </form>
+  </div>
+{% endblock %}
+

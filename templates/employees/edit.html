@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}Edit employee{% endblock %}
+{% block content %}
+  <div class="card">
+    <div style="display:flex; align-items:flex-end; justify-content:space-between; gap:12px; margin-bottom: 12px;">
+      <div>
+        <div style="font-size:18px; font-weight:700;">Редагувати співробітника #{{ employee.id }}</div>
+        <div class="muted">Equipment вводьте через “;”. При збереженні список буде замінено.</div>
+      </div>
+      <a class="btn" href="/employees/{{ employee.id }}">← До деталей</a>
+    </div>
+
+    <form method="post" action="/employees/{{ employee.id }}/edit">
+      <div class="grid">
+        <div class="field">
+          <label>ПІБ</label>
+          <input name="full_name" value="{{ employee.full_name }}" required />
+        </div>
+        <div class="field">
+          <label>Email</label>
+          <input name="email" value="{{ employee.email }}" required />
+        </div>
+        <div class="field">
+          <label>Дата старту</label>
+          <input name="start_date" value="{{ employee.start_date }}" />
+        </div>
+        <div class="field">
+          <label>Посада</label>
+          <input name="position" value="{{ employee.position }}" />
+        </div>
+        <div class="field">
+          <label>Статус</label>
+          <input name="status" value="{{ employee.status }}" />
+        </div>
+        <div class="field">
+          <label>Equipment</label>
+          <input name="equipment" value="{{ equipment }}" />
+        </div>
+      </div>
+      <div class="footer-actions">
+        <a class="btn" href="/employees/{{ employee.id }}">Скасувати</a>
+        <button class="btn primary" type="submit">Зберегти</button>
+      </div>
+    </form>
+  </div>
+{% endblock %}
+
